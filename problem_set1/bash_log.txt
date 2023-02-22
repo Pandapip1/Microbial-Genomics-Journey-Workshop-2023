@@ -1,0 +1,141 @@
+[johngn@reslnvvhpc0190 Microbial-Genomics-Journey-Workshop-2023]$ wc script.sh > number_of_lines.txt
+[johngn@reslnvvhpc0190 Microbial-Genomics-Journey-Workshop-2023]$ chmod +x script.sh
+[johngn@reslnvvhpc0190 Microbial-Genomics-Journey-Workshop-2023]$ wget -O problem_set1.tar.gz https://www.dropbox.com/s/fel9pq2hxj58gmo/problem_set1.tar.gz?dl=0 --no-check-certificate
+--2023-02-22 16:54:03--  https://www.dropbox.com/s/fel9pq2hxj58gmo/problem_set1.tar.gz?dl=0
+Resolving www.dropbox.com (www.dropbox.com)... 162.125.3.18, 2620:100:6019:18::a27d:412
+Connecting to www.dropbox.com (www.dropbox.com)|162.125.3.18|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /s/raw/fel9pq2hxj58gmo/problem_set1.tar.gz [following]
+--2023-02-22 16:54:03--  https://www.dropbox.com/s/raw/fel9pq2hxj58gmo/problem_set1.tar.gz
+Reusing existing connection to www.dropbox.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: https://uc680fcaf7badd6ab404de0ea4e4.dl.dropboxusercontent.com/cd/0/inline/B3BB_bItxJjUR2du_Jxa5pS1EZcFdTKeI6CkoYAmpEhw9YrQORpGjXnwboRFWHHOv985M1PIEKSnrhERUlRt4YKEihbiFQQtHz9NyFAUZQoiV3-4MWaw_aCKnuWAJJztv5zvPvrgQXEiTa37BsRjljNCbGRnPt1e56Y51xqzVE3mcg/file# [following]
+--2023-02-22 16:54:03--  https://uc680fcaf7badd6ab404de0ea4e4.dl.dropboxusercontent.com/cd/0/inline/B3BB_bItxJjUR2du_Jxa5pS1EZcFdTKeI6CkoYAmpEhw9YrQORpGjXnwboRFWHHOv985M1PIEKSnrhERUlRt4YKEihbiFQQtHz9NyFAUZQoiV3-4MWaw_aCKnuWAJJztv5zvPvrgQXEiTa37BsRjljNCbGRnPt1e56Y51xqzVE3mcg/file
+Resolving uc680fcaf7badd6ab404de0ea4e4.dl.dropboxusercontent.com (uc680fcaf7badd6ab404de0ea4e4.dl.dropboxusercontent.com)... 162.125.3.15, 2620:100:6019:15::a27d:40f
+Connecting to uc680fcaf7badd6ab404de0ea4e4.dl.dropboxusercontent.com (uc680fcaf7badd6ab404de0ea4e4.dl.dropboxusercontent.com)|162.125.3.15|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /cd/0/inline2/B3Cdl-AUisqMGQQgl4YCj40DWeDgBMdSGvOViZeIufHHFNz9ALz1njATDS3UqyLshcjfy73MXPImGQzGosy22oBUmgQrZJo8Hy7QMggfAUQgKQzq6bFZsuHPxsIu5DNNTRPbFMV3gUZiFgwb1uFwNqt6io707KbDmHJmOSN03wdNUoifjHO0_RQf2yfboTfA2vXIJN2OOhStP7Byp0pl_TgmYuLqzvr9V6RF1ikmGVmgiPBAXKLfEFE_fZ0oqbg23S1TLAaSzM78flp97mFkTN3ikKTNRcuqkY25ei1rnEkNEQ_691npdHBsfQggGd8cuuU85cT9qsJtzfBlc7peV9dHm4xxlUHQl3kQAcf5EW4RG9lRWuLOUTQHljOjSDurLj7rOM7fUmTM_3x6UbDljadLOjcwvkgF-91WJWlRkHAo0A/file [following]
+--2023-02-22 16:54:04--  https://uc680fcaf7badd6ab404de0ea4e4.dl.dropboxusercontent.com/cd/0/inline2/B3Cdl-AUisqMGQQgl4YCj40DWeDgBMdSGvOViZeIufHHFNz9ALz1njATDS3UqyLshcjfy73MXPImGQzGosy22oBUmgQrZJo8Hy7QMggfAUQgKQzq6bFZsuHPxsIu5DNNTRPbFMV3gUZiFgwb1uFwNqt6io707KbDmHJmOSN03wdNUoifjHO0_RQf2yfboTfA2vXIJN2OOhStP7Byp0pl_TgmYuLqzvr9V6RF1ikmGVmgiPBAXKLfEFE_fZ0oqbg23S1TLAaSzM78flp97mFkTN3ikKTNRcuqkY25ei1rnEkNEQ_691npdHBsfQggGd8cuuU85cT9qsJtzfBlc7peV9dHm4xxlUHQl3kQAcf5EW4RG9lRWuLOUTQHljOjSDurLj7rOM7fUmTM_3x6UbDljadLOjcwvkgF-91WJWlRkHAo0A/file
+Reusing existing connection to uc680fcaf7badd6ab404de0ea4e4.dl.dropboxusercontent.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 101593871 (97M) [application/octet-stream]
+Saving to: ‘problem_set1.tar.gz’
+
+problem_set1.tar.gz                       100%[==================================================================================>]  96.89M  10.1MB/s    in 9.6s    
+
+2023-02-22 16:54:14 (10.1 MB/s) - ‘problem_set1.tar.gz’ saved [101593871/101593871]
+
+[johngn@reslnvvhpc0190 Microbial-Genomics-Journey-Workshop-2023]$ mkdir problem_set1
+[johngn@reslnvvhpc0190 Microbial-Genomics-Journey-Workshop-2023]$ tar -xf problem_set1.tar.gz ./problem_set1
+tar: Ignoring unknown extended header keyword 'SCHILY.fflags'
+tar: Ignoring unknown extended header keyword 'LIBARCHIVE.xattr.com.apple.FinderInfo'
+tar: Ignoring unknown extended header keyword 'LIBARCHIVE.xattr.com.apple.quarantine'
+tar: Ignoring unknown extended header keyword 'SCHILY.fflags'
+tar: Ignoring unknown extended header keyword 'LIBARCHIVE.xattr.com.apple.FinderInfo'
+tar: Ignoring unknown extended header keyword 'LIBARCHIVE.xattr.com.apple.quarantine'
+tar: Ignoring unknown extended header keyword 'LIBARCHIVE.xattr.com.apple.quarantine'
+tar: Ignoring unknown extended header keyword 'LIBARCHIVE.xattr.com.apple.quarantine'
+tar: Ignoring unknown extended header keyword 'SCHILY.fflags'
+tar: Ignoring unknown extended header keyword 'LIBARCHIVE.xattr.com.apple.FinderInfo'
+tar: Ignoring unknown extended header keyword 'LIBARCHIVE.xattr.com.apple.quarantine'
+tar: Ignoring unknown extended header keyword 'LIBARCHIVE.xattr.com.apple.lastuseddate#PS'
+tar: Ignoring unknown extended header keyword 'LIBARCHIVE.xattr.com.apple.quarantine'
+tar: Ignoring unknown extended header keyword 'LIBARCHIVE.xattr.com.apple.quarantine'
+tar: ./problem_set1: Not found in archive
+tar: Exiting with failure status due to previous errors
+[johngn@reslnvvhpc0190 Microbial-Genomics-Journey-Workshop-2023]$ tar -xf problem_set1.tar.gz -C ./problem_set1
+tar: Ignoring unknown extended header keyword 'SCHILY.fflags'
+tar: Ignoring unknown extended header keyword 'LIBARCHIVE.xattr.com.apple.FinderInfo'
+tar: Ignoring unknown extended header keyword 'LIBARCHIVE.xattr.com.apple.quarantine'
+tar: Ignoring unknown extended header keyword 'SCHILY.fflags'
+tar: Ignoring unknown extended header keyword 'LIBARCHIVE.xattr.com.apple.FinderInfo'
+tar: Ignoring unknown extended header keyword 'LIBARCHIVE.xattr.com.apple.quarantine'
+tar: Ignoring unknown extended header keyword 'LIBARCHIVE.xattr.com.apple.quarantine'
+tar: Ignoring unknown extended header keyword 'LIBARCHIVE.xattr.com.apple.quarantine'
+tar: Ignoring unknown extended header keyword 'SCHILY.fflags'
+tar: Ignoring unknown extended header keyword 'LIBARCHIVE.xattr.com.apple.FinderInfo'
+tar: Ignoring unknown extended header keyword 'LIBARCHIVE.xattr.com.apple.quarantine'
+tar: Ignoring unknown extended header keyword 'LIBARCHIVE.xattr.com.apple.lastuseddate#PS'
+tar: Ignoring unknown extended header keyword 'LIBARCHIVE.xattr.com.apple.quarantine'
+tar: Ignoring unknown extended header keyword 'LIBARCHIVE.xattr.com.apple.quarantine'
+[johngn@reslnvvhpc0190 Microbial-Genomics-Journey-Workshop-2023]$ pwd
+/home/johngn/Microbial-Genomics-Journey-Workshop-2023
+[johngn@reslnvvhpc0190 Microbial-Genomics-Journey-Workshop-2023]$ cd ^C
+[johngn@reslnvvhpc0190 Microbial-Genomics-Journey-Workshop-2023]$ ls
+Illumina_adapters.jpg  Knowledge_Map_1.pptx  number_of_lines.txt  Problem_Set1.md      quality.md  script.sh
+Knowledge_Map_1.jpg    LICENSE               problem_set1         problem_set1.tar.gz  README.md   Unix_intro.md
+[johngn@reslnvvhpc0190 Microbial-Genomics-Journey-Workshop-2023]$ cd problem_set1/
+[johngn@reslnvvhpc0190 problem_set1]$ ls
+fasta  fastq  file4.txt  folder_error  list.txt.gz  RefSeqSketches.msh.gz
+[johngn@reslnvvhpc0190 problem_set1]$ ls -la fasta | grep .fasta.gz
+-rw-r-----. 1 johngn reslnusers     179 Feb 21 16:23 ._genome2.fasta.gz
+-rw-r-----. 1 johngn reslnusers 3218600 Feb 21 16:23 genome2.fasta.gz
+-rw-r-----. 1 johngn reslnusers     179 Feb 21 16:20 ._genome3.fasta.gz
+-rw-r-----. 1 johngn reslnusers  786443 Feb 21 16:20 genome3.fasta.gz
+-rw-r-----. 1 johngn reslnusers     235 Feb 21 16:09 ._genome4.fasta.gz
+-rw-r-----. 1 johngn reslnusers 1170131 Feb 21 16:09 genome4.fasta.gz
+[johngn@reslnvvhpc0190 problem_set1]$ wc -m ^C
+[johngn@reslnvvhpc0190 problem_set1]$ tar ^C
+[johngn@reslnvvhpc0190 problem_set1]$ cd fast
+bash: cd: fast: No such file or directory
+[johngn@reslnvvhpc0190 problem_set1]$ cd fasta/
+[johngn@reslnvvhpc0190 fasta]$ tar -xvgf *.fasta.gz
+tar: Refusing to read archive contents from terminal (missing -f option?)
+tar: Error is not recoverable: exiting now
+[johngn@reslnvvhpc0190 fasta]$ tar -xvf *.fasta.gz
+tar: This does not look like a tar archive
+tar: Skipping to next header
+tar: genome3.fasta.gz: Not found in archive
+tar: genome4.fasta.gz: Not found in archive
+tar: Exiting with failure status due to previous errors
+[johngn@reslnvvhpc0190 fasta]$ tar -xvgf *.fasta.gz
+tar: Refusing to read archive contents from terminal (missing -f option?)
+tar: Error is not recoverable: exiting now
+[johngn@reslnvvhpc0190 fasta]$ tar -xvf *.fasta.gz -gz
+tar: This does not look like a tar archive
+tar: Skipping to next header
+tar: genome3.fasta.gz: Not found in archive
+tar: genome4.fasta.gz: Not found in archive
+tar: Exiting with failure status due to previous errors
+[johngn@reslnvvhpc0190 fasta]$ tar -xvf^C.fasta.gz
+[johngn@reslnvvhpc0190 fasta]$ ls
+genome2.fasta.gz  genome3.fasta.gz  genome4.fasta.gz
+[johngn@reslnvvhpc0190 fasta]$ tar -xvgf genome2.fasta.gz
+tar: Refusing to read archive contents from terminal (missing -f option?)
+tar: Error is not recoverable: exiting now
+[johngn@reslnvvhpc0190 fasta]$ tar -xvf genome2.fasta.gz
+tar: This does not look like a tar archive
+tar: Skipping to next header
+tar: Exiting with failure status due to previous errors
+[johngn@reslnvvhpc0190 fasta]$ gz
+bash: gz: command not found...
+Similar command is: 'gs'
+[johngn@reslnvvhpc0190 fasta]$ gz
+gzexe  gzip   
+[johngn@reslnvvhpc0190 fasta]$ gzip -d *
+[johngn@reslnvvhpc0190 fasta]$ ls 
+genome2.fasta  genome3.fasta  genome4.fasta
+[johngn@reslnvvhpc0190 fasta]$ ls -la
+total 8960
+drwxr-x---. 2 johngn reslnusers      257 Feb 22 16:58 .
+drwxr-x---. 5 johngn reslnusers      227 Feb 21 16:35 ..
+-rw-r-----. 1 johngn reslnusers      120 Feb 21 16:33 ._.DS_Store
+-rw-r-----. 1 johngn reslnusers     6148 Feb 21 16:33 .DS_Store
+-rw-r-----. 1 johngn reslnusers 10661608 Feb 21 16:23 genome2.fasta
+-rw-r-----. 1 johngn reslnusers      179 Feb 21 16:23 ._genome2.fasta.gz
+-rw-r-----. 1 johngn reslnusers  2699345 Feb 21 16:20 genome3.fasta
+-rw-r-----. 1 johngn reslnusers      179 Feb 21 16:20 ._genome3.fasta.gz
+-rw-r-----. 1 johngn reslnusers  4208118 Feb 21 16:09 genome4.fasta
+-rw-r-----. 1 johngn reslnusers      235 Feb 21 16:09 ._genome4.fasta.gz
+[johngn@reslnvvhpc0190 fasta]$ wc -m > genome2.fasta 
+^C
+[johngn@reslnvvhpc0190 fasta]$ awk -v RS='' -v FPAT='"' '{print NF}' file
+awk: fatal: cannot open file `file' for reading (No such file or directory)
+[johngn@reslnvvhpc0190 fasta]$ awk -v RS='' -v FPAT='>' '{print NF}' genome2.fasta 
+[johngn@reslnvvhpc0190 fasta]$ awk -v RS='' -v FPAT='>' '{print NF}' genome.fasta 
+genome2.fasta  genome3.fasta  genome4.fasta  
+[johngn@reslnvvhpc0190 fasta]$ awk -v RS='' -v FPAT='>' '{print NF}' genome3.fasta 
+102
+[johngn@reslnvvhpc0190 fasta]$ awk -v RS='' -v FPAT='>' '{print NF}' genome4.fasta 
+1
+[johngn@reslnvvhpc0190 fasta]$ 
