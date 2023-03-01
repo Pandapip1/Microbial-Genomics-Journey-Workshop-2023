@@ -1,0 +1,145 @@
+[johngn@reslnvvhpc0190 problem_set1]$ conda activate fastqc
+(fastqc) [johngn@reslnvvhpc0190 problem_set1]$ cd pro^C
+(fastqc) [johngn@reslnvvhpc0190 problem_set1]$ gunzip *.gz
+(fastqc) [johngn@reslnvvhpc0190 problem_set1]$ fastqc genome1_R^C
+(fastqc) [johngn@reslnvvhpc0190 problem_set1]$ cd fastq/
+(fastqc) [johngn@reslnvvhpc0190 fastq]$ fastqc ^C
+(fastqc) [johngn@reslnvvhpc0190 fastq]$ gunzip *.gz
+(fastqc) [johngn@reslnvvhpc0190 fastq]$ fastqc genome1_R1.fastq genome1_R2.fastq 
+Started analysis of genome1_R1.fastq
+Approx 10% complete for genome1_R1.fastq
+Approx 25% complete for genome1_R1.fastq
+Approx 40% complete for genome1_R1.fastq
+Approx 55% complete for genome1_R1.fastq
+Approx 70% complete for genome1_R1.fastq
+Approx 85% complete for genome1_R1.fastq
+Analysis complete for genome1_R1.fastq
+Started analysis of genome1_R2.fastq
+Approx 10% complete for genome1_R2.fastq
+Approx 25% complete for genome1_R2.fastq
+Approx 40% complete for genome1_R2.fastq
+Approx 55% complete for genome1_R2.fastq
+Approx 70% complete for genome1_R2.fastq
+Approx 85% complete for genome1_R2.fastq
+Analysis complete for genome1_R2.fastq
+(fastqc) [johngn@reslnvvhpc0190 fastq]$ chmod +x *.html
+(fastqc) [johngn@reslnvvhpc0190 fastq]$ ./genome1_R1_fastqc.html 
+./genome1_R1_fastqc.html: line 1: syntax error near unexpected token `<'
+'/genome1_R1_fastqc.html: line 1: `<html><head><title>genome1_R1.fastq FastQC Report</title><style type="text/css">
+(fastqc) [johngn@reslnvvhpc0190 fastq]$ chmod -x *.html
+(fastqc) [johngn@reslnvvhpc0190 fastq]$ open
+Couldn't get a file descriptor referring to the console
+(fastqc) [johngn@reslnvvhpc0190 fastq]$ open genome1_R1
+genome1_R1.fastq        genome1_R1_fastqc.html  genome1_R1_fastqc.zip   
+(fastqc) [johngn@reslnvvhpc0190 fastq]$ open genome1_R1_fastqc.
+Couldn't get a file descriptor referring to the console
+(fastqc) [johngn@reslnvvhpc0190 fastq]$ open genome1_R1_fastqc.
+genome1_R1_fastqc.html  genome1_R1_fastqc.zip   
+(fastqc) [johngn@reslnvvhpc0190 fastq]$ open genome1_R1_fastqc.html 
+Couldn't get a file descriptor referring to the console
+(fastqc) [johngn@reslnvvhpc0190 fastq]$ chr
+chrome-gnome-shell  chronyc             chronyd             chroot              chrt                
+(fastqc) [johngn@reslnvvhpc0190 fastq]$ chrome-gnome-shell 
+._.DS_Store             genome1_R1_fastqc.html  genome1_R2.fastq        ._genome1_R2.fastq.gz   mockdna_R2.fastq        
+.DS_Store               genome1_R1_fastqc.zip   genome1_R2_fastqc.html  mockdna_R1.fastq        ._mockdna_R2.fastq.gz   
+genome1_R1.fastq        ._genome1_R1.fastq.gz   genome1_R2_fastqc.zip   ._mockdna_R1.fastq.gz   
+(fastqc) [johngn@reslnvvhpc0190 fastq]$ chrome-gnome-shell genome1_R1
+genome1_R1.fastq        genome1_R1_fastqc.html  genome1_R1_fastqc.zip   
+(fastqc) [johngn@reslnvvhpc0190 fastq]$ chrome-gnome-shell genome1_R1.html
+^C(fastqc) [johngn@reslnvvhpc0190 fastq]$ 
+(fastqc) [johngn@reslnvvhpc0190 fastq]$ conda activate mash
+(mash) [johngn@reslnvvhpc0190 fastq]$ cat mockdna_R1.fastq mockdna_R2.fastq > mockdna_reads.fastq
+(mash) [johngn@reslnvvhpc0190 fastq]$ gunzip ../RefSeqSketches.msh.gz
+gzip: ../RefSeqSketches.msh.gz: No such file or directory
+(mash) [johngn@reslnvvhpc0190 fastq]$ gunzip ../Ref^CqSketches.msh.gz
+(mash) [johngn@reslnvvhpc0190 fastq]$ cd ..
+(mash) [johngn@reslnvvhpc0190 problem_set1]$ gunzip RefSeqSketches.msh^C
+(mash) [johngn@reslnvvhpc0190 problem_set1]$ mash screen -w -p 8 RefSeqSketches.msh fastq/mockdna_reads.fastq > fastq/mockdna_screen_winning.tab
+Loading RefSeqSketches.msh...
+   4669418 distinct hashes.
+Streaming from fastq/mockdna_reads.fastq...
+   Estimated distinct k-mers in mixture: 8088336
+Summing shared...
+Reallocating to winners...
+Computing coverage medians...
+Writing output...
+(mash) [johngn@reslnvvhpc0190 problem_set1]$ less fastq/mockdna_screen_winning.tab 
+(mash) [johngn@reslnvvhpc0190 problem_set1]$ sort -gr fastq/mockdna_screen_winning.tab > fastq/mockdna_screen_winning_sorted.tab
+(mash) [johngn@reslnvvhpc0190 problem_set1]$ cd fasta
+(mash) [johngn@reslnvvhpc0190 fasta]$ mash screen -w -p 8 ../RefSeqSketches.msh genome2.fasta > genome2_screen_winning.tab
+Loading ../RefSeqSketches.msh...
+   4669418 distinct hashes.
+Streaming from genome2.fasta...
+
+ERROR: Did not find sequence records in inputs
+(mash) [johngn@reslnvvhpc0190 fasta]$ mash screen -w -p 8 ../RefSeqSketches.msh genome2.fasta > genome2_screen_winning.tab
+Loading ../RefSeqSketches.msh...
+   4669418 distinct hashes.
+Streaming from genome2.fasta...
+
+ERROR: Did not find sequence records in inputs
+(mash) [johngn@reslnvvhpc0190 fasta]$ mash screen -w -p 8 ../RefSeqSketches.msh 
+._.DS_Store                 genome2.fasta               genome2_screen_winning.tab  ._genome3.fasta.gz          ._genome4.fasta.gz
+.DS_Store                   ._genome2.fasta.gz          genome3.fasta               genome4.fasta               
+(mash) [johngn@reslnvvhpc0190 fasta]$ mash screen -w -p 8 ../RefSeqSketches.msh 
+._.DS_Store                 genome2.fasta               genome2_screen_winning.tab  ._genome3.fasta.gz          ._genome4.fasta.gz
+.DS_Store                   ._genome2.fasta.gz          genome3.fasta               genome4.fasta               
+(mash) [johngn@reslnvvhpc0190 fasta]$ mash screen -w -p 8 ../RefSeqSketches.msh genome2.fasta 
+._.DS_Store                 genome2.fasta               genome2_screen_winning.tab  ._genome3.fasta.gz          ._genome4.fasta.gz
+.DS_Store                   ._genome2.fasta.gz          genome3.fasta               genome4.fasta               
+(mash) [johngn@reslnvvhpc0190 fasta]$ mash screen -w -p 8 ../RefSeqSketches.msh genome2.fasta > genome2_screen_winning.tab 
+Loading ../RefSeqSketches.msh...
+   4669418 distinct hashes.
+Streaming from genome2.fasta...
+
+ERROR: Did not find sequence records in inputs
+(mash) [johngn@reslnvvhpc0190 fasta]$ sort -gr genome2_screen_winning.tab > genome2_screen_winning_sorted.tab
+(mash) [johngn@reslnvvhpc0190 fasta]$ less genome2_screen_winning_sorted.tab
+(mash) [johngn@reslnvvhpc0190 fasta]$ mash screen -w ../RefSeqSketches.msh genome2.fasta > genome2_screen_winning.tab 
+Loading ../RefSeqSketches.msh...
+   4669418 distinct hashes.
+Streaming from genome2.fasta...
+
+ERROR: Did not find sequence records in inputs
+(mash) [johngn@reslnvvhpc0190 fasta]$ mash dist genome3.fasta genome4.fasta
+Sketching genome3.fasta (provide sketch file made with "mash sketch" to skip)...done.
+genome3.fasta   genome4.fasta   0.295981        0.00036983      1/1000
+(mash) [johngn@reslnvvhpc0190 fasta]$ mash sketch -s 1000 -k 21 genome2.fasta
+Sketching genome2.fasta...
+
+ERROR: Did not find fasta records in "input files".
+(mash) [johngn@reslnvvhpc0190 fasta]$ mash sketch -s 1000 -k 21 genome3.fasta
+Sketching genome3.fasta...
+Writing to genome3.fasta.msh...
+(mash) [johngn@reslnvvhpc0190 fasta]$ mash sketch -s 1000 -k 21 genome4.fasta
+Sketching genome4.fasta...
+Writing to genome4.fasta.msh...
+(mash) [johngn@reslnvvhpc0190 fasta]$ mash screen -w ../RefSeqSketches.msh genome3.fasta > genome2_screen_winning_genome3.tab 
+Loading ../RefSeqSketches.msh...
+   4669418 distinct hashes.
+Streaming from genome3.fasta...
+   Estimated distinct k-mers in mixture: 2609954
+Summing shared...
+Reallocating to winners...
+Computing coverage medians...
+Writing output...
+(mash) [johngn@reslnvvhpc0190 fasta]$ mash paste genomes.msh genome2.fasta.msh genome3.fasta.msh  genome4.fasta.msh
+ERROR: could not open "genome2.fasta.msh" for reading.
+(mash) [johngn@reslnvvhpc0190 fasta]$ mash paste genomes.msh genome3.fasta.msh  genome4.fasta.msh
+Writing genomes.msh...
+(mash) [johngn@reslnvvhpc0190 fasta]$ mash info genomes.msh | head -n 20
+Header:
+  Hash function (seed):          MurmurHash3_x64_128 (42)
+  K-mer size:                    21 (64-bit hashes)
+  Alphabet:                      ACGT (canonical)
+  Target min-hashes per sketch:  1000
+  Sketches:                      2
+
+Sketches:
+  [Hashes]  [Length]  [ID]           [Comment]
+
+  1000      2652145   genome3.fasta  [102 seqs] gnl|Bactopia|Path_Reg_71_1  [...]
+
+  1000      4208073   genome4.fasta  1 length=4208073 depth=1.00x circular=true
+
+(mash) [johngn@reslnvvhpc0190 fasta]$ 
