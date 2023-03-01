@@ -1,0 +1,16 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+1_3446               -            316 71691at186802        -            195   2.5e-71  237.3  11.1   1   3    0.0013       4.7    4.8   0.1     1    16     1    16     1    32 0.81 # 3892951 # 3893898 # -1 # ID=1_3446;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.296
+1_3446               -            316 71691at186802        -            195   2.5e-71  237.3  11.1   2   3   1.2e-14   4.6e-11   40.7   0.0    31    68   122   160   111   166 0.82 # 3892951 # 3893898 # -1 # ID=1_3446;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.296
+1_3446               -            316 71691at186802        -            195   2.5e-71  237.3  11.1   3   3   2.5e-61   9.5e-58  193.0   5.4    65   194   175   310   163   311 0.94 # 3892951 # 3893898 # -1 # ID=1_3446;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.296
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /home/johngn/Microbial-Genomics-Journey-Workshop-2023/Reads_session_3/busco_downloads/lineages/clostridiales_odb10/hmms/71691at186802.hmm
+# Target file:     /home/johngn/Microbial-Genomics-Journey-Workshop-2023/Reads_session_3/busco_op3/prodigal_output/predicted_genes/predicted.faa
+# Option settings: hmmsearch --domtblout /home/johngn/Microbial-Genomics-Journey-Workshop-2023/Reads_session_3/busco_op3/run_clostridiales_odb10/hmmer_output/71691at186802.out --cpu 1 /home/johngn/Microbial-Genomics-Journey-Workshop-2023/Reads_session_3/busco_downloads/lineages/clostridiales_odb10/hmms/71691at186802.hmm /home/johngn/Microbial-Genomics-Journey-Workshop-2023/Reads_session_3/busco_op3/prodigal_output/predicted_genes/predicted.faa 
+# Current dir:     /home/johngn/Microbial-Genomics-Journey-Workshop-2023/Reads_session_3
+# Date:            Wed Mar  1 18:12:49 2023
+# [ok]

@@ -1,0 +1,16 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+contig00604_5        -            107 1574817at2           -            150   1.1e-32  112.1   0.0   1   1   4.4e-36   1.2e-32  112.0   0.0    49   145     3   100     1   104 0.96 # 2350 # 2670 # -1 # ID=604_5;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.676
+contig00872_1        -            435 1574817at2           -            150   2.6e-05   23.3   0.0   1   1   1.6e-08   4.6e-05   22.5   0.0    48   141    31   125     4   131 0.89 # 58 # 1362 # 1 # ID=872_1;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.707
+contig00318_1        -             38 1574817at2           -            150    0.0011   18.0   0.5   1   1   4.4e-07    0.0012   17.8   0.5     2    20    19    37    18    38 0.92 # 3 # 116 # -1 # ID=318_1;partial=10;start_type=GTG;rbs_motif=GGAGG;rbs_spacer=3-4bp;gc_cont=0.684
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /home/johngn/Microbial-Genomics-Journey-Workshop-2023/Reads_session_3/busco_downloads/lineages/bacteria_odb10/hmms/1574817at2.hmm
+# Target file:     /home/johngn/Microbial-Genomics-Journey-Workshop-2023/Reads_session_3/busco_op/prodigal_output/predicted_genes/predicted.faa
+# Option settings: hmmsearch --domtblout /home/johngn/Microbial-Genomics-Journey-Workshop-2023/Reads_session_3/busco_op/run_bacteria_odb10/hmmer_output/1574817at2.out --cpu 1 /home/johngn/Microbial-Genomics-Journey-Workshop-2023/Reads_session_3/busco_downloads/lineages/bacteria_odb10/hmms/1574817at2.hmm /home/johngn/Microbial-Genomics-Journey-Workshop-2023/Reads_session_3/busco_op/prodigal_output/predicted_genes/predicted.faa 
+# Current dir:     /home/johngn/Microbial-Genomics-Journey-Workshop-2023/Reads_session_3
+# Date:            Wed Mar  1 18:11:35 2023
+# [ok]

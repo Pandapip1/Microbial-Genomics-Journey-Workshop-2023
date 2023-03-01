@@ -4,5 +4,9 @@ Registration_attendance
 Workshop_sessions.md
 emails.docx
 .DS_Store
-*/*.fasta
-*/*.fastq
+problem_set1/fastq/mockdna*.fastq
+Reads_session_3/*.fastq
+Reads_session_3/busco_downloads
+Reads_session_3/busco_op/run_bacteria_odb10/busco_sequences
+Reads_session_3/busco_op2/run_bacteria_odb10/busco_sequences
+Reads_session_3/busco_op3/run_bacteria_odb10/busco_sequences

@@ -1,0 +1,27 @@
+2023-03-01 18:11:43 DEBUG:busco.run_BUSCO	Command line: /home/johngn/miniconda3/envs/busco/bin/busco -i /home/johngn/MGJW/problem_set1/fasta/genome4.fasta -l bacteria_odb10 -o busco_op2 -m genome
+2023-03-01 18:11:43 INFO:busco.run_BUSCO	***** Start a BUSCO v5.4.4 analysis, current time: 03/01/2023 18:11:43 *****
+2023-03-01 18:11:43 DEBUG:busco.ConfigManager	Getting config file
+2023-03-01 18:11:43 INFO:busco.ConfigManager	Configuring BUSCO with local environment
+2023-03-01 18:11:43 INFO:busco.BuscoConfig	Mode is genome
+2023-03-01 18:11:43 ERROR:busco.BuscoRunner	A run with the name /home/johngn/Microbial-Genomics-Journey-Workshop-2023/Reads_session_3/busco_op2 already exists...
+	If you are sure you wish to overwrite existing files, please use the -f (force) option
+2023-03-01 18:11:43 DEBUG:busco.BuscoRunner	A run with the name /home/johngn/Microbial-Genomics-Journey-Workshop-2023/Reads_session_3/busco_op2 already exists...
+	If you are sure you wish to overwrite existing files, please use the -f (force) option
+Traceback (most recent call last):
+  File "/home/johngn/miniconda3/envs/busco/lib/python3.7/site-packages/busco/run_BUSCO.py", line 70, in run
+    self.load_config()
+  File "/home/johngn/miniconda3/envs/busco/lib/python3.7/site-packages/busco/run_BUSCO.py", line 62, in load_config
+    self.config_manager.load_busco_config_main()
+  File "/home/johngn/miniconda3/envs/busco/lib/python3.7/site-packages/busco/BuscoLogger.py", line 62, in wrapped_func
+    self.retval = func(*args, **kwargs)
+  File "/home/johngn/miniconda3/envs/busco/lib/python3.7/site-packages/busco/ConfigManager.py", line 58, in load_busco_config_main
+    self.config_main.validate()
+  File "/home/johngn/miniconda3/envs/busco/lib/python3.7/site-packages/busco/BuscoConfig.py", line 526, in validate
+    self._check_no_previous_run()
+  File "/home/johngn/miniconda3/envs/busco/lib/python3.7/site-packages/busco/BuscoConfig.py", line 740, in _check_no_previous_run
+    "please use the -f (force) option".format(self.main_out)
+busco.Exceptions.BatchFatalError: A run with the name /home/johngn/Microbial-Genomics-Journey-Workshop-2023/Reads_session_3/busco_op2 already exists...
+	If you are sure you wish to overwrite existing files, please use the -f (force) option
+2023-03-01 18:11:43 ERROR:busco.BuscoRunner	BUSCO analysis failed!
+2023-03-01 18:11:43 ERROR:busco.BuscoRunner	Check the logs, read the user guide (https://busco.ezlab.org/busco_userguide.html), and check the BUSCO issue board on https://gitlab.com/ezlab/busco/issues
+

@@ -1,0 +1,19 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+contig00981_2        -            435 26038at2             -            439   2.8e-31  107.7   1.4   1   3   2.3e-14   9.7e-11   40.1   0.0    10    46   190   226   182   231 0.85 # 691 # 1995 # 1 # ID=981_2;partial=01;start_type=ATG;rbs_motif=AGGA/GGAG/GAGG;rbs_spacer=11-12bp;gc_cont=0.674
+contig00981_2        -            435 26038at2             -            439   2.8e-31  107.7   1.4   2   3   1.6e-21   6.6e-18   63.7   0.2    56   100   285   331   273   341 0.86 # 691 # 1995 # 1 # ID=981_2;partial=01;start_type=ATG;rbs_motif=AGGA/GGAG/GAGG;rbs_spacer=11-12bp;gc_cont=0.674
+contig00981_2        -            435 26038at2             -            439   2.8e-31  107.7   1.4   3   3     0.019        79    0.8   0.0   105   128   361   385   355   396 0.87 # 691 # 1995 # 1 # ID=981_2;partial=01;start_type=ATG;rbs_motif=AGGA/GGAG/GAGG;rbs_spacer=11-12bp;gc_cont=0.674
+contig02635_1        -            260 26038at2             -            439   1.9e-14   52.3   0.1   1   3     0.093   3.9e+02   -1.5   0.0   257   276     8    27     5    47 0.83 # 1 # 780 # 1 # ID=2635_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.683
+contig02635_1        -            260 26038at2             -            439   1.9e-14   52.3   0.1   2   3   1.2e-09     5e-06   24.5   0.1   282   328    66   112    50   116 0.84 # 1 # 780 # 1 # ID=2635_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.683
+contig02635_1        -            260 26038at2             -            439   1.9e-14   52.3   0.1   3   3   1.2e-09   5.1e-06   24.5   0.0   315   390   133   229   127   246 0.77 # 1 # 780 # 1 # ID=2635_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.683
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /home/johngn/Microbial-Genomics-Journey-Workshop-2023/Reads_session_3/busco_downloads/lineages/bacteria_odb10/hmms/26038at2.hmm
+# Target file:     /home/johngn/Microbial-Genomics-Journey-Workshop-2023/Reads_session_3/busco_op/prodigal_output/predicted_genes/predicted.faa
+# Option settings: hmmsearch --domtblout /home/johngn/Microbial-Genomics-Journey-Workshop-2023/Reads_session_3/busco_op/run_bacteria_odb10/hmmer_output/26038at2.out --cpu 1 /home/johngn/Microbial-Genomics-Journey-Workshop-2023/Reads_session_3/busco_downloads/lineages/bacteria_odb10/hmms/26038at2.hmm /home/johngn/Microbial-Genomics-Journey-Workshop-2023/Reads_session_3/busco_op/prodigal_output/predicted_genes/predicted.faa 
+# Current dir:     /home/johngn/Microbial-Genomics-Journey-Workshop-2023/Reads_session_3
+# Date:            Wed Mar  1 18:11:37 2023
+# [ok]

@@ -1,0 +1,30 @@
+# BUSCO version is: 5.4.4 
+# The lineage dataset is: clostridiales_odb10 (Creation date: 2020-03-06, number of genomes: 347, number of BUSCOs: 264)
+# Summarized benchmarking in BUSCO notation for file /home/johngn/Microbial-Genomics-Journey-Workshop-2023/problem_set1/fasta/genome4.fasta
+# BUSCO was run in mode: prok_genome
+# Gene predictor used: prodigal
+
+	***** Results: *****
+
+	C:99.6%[S:98.1%,D:1.5%],F:0.0%,M:0.4%,n:264	   
+	263	Complete BUSCOs (C)			   
+	259	Complete and single-copy BUSCOs (S)	   
+	4	Complete and duplicated BUSCOs (D)	   
+	0	Fragmented BUSCOs (F)			   
+	1	Missing BUSCOs (M)			   
+	264	Total BUSCO groups searched		   
+
+Assembly Statistics:
+	1	Number of scaffolds
+	1	Number of contigs
+	4208073	Total length
+	0.000%	Percent gaps
+	4 MB	Scaffold N50
+	4 MB	Contigs N50
+
+
+Dependencies and versions:
+	hmmsearch: 3.1
+	bbtools: 39.01
+	prodigal: 2.6.3
+	busco: 5.4.4

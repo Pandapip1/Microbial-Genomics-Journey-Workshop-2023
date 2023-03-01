@@ -1,0 +1,17 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+1_112                -            268 83655at186802        -            207   1.4e-89  296.6  15.2   1   2   9.7e-17   1.2e-13   48.6   0.3     1    39     1    39     1    43 0.97 # 127152 # 127955 # 1 # ID=1_112;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.307
+1_112                -            268 83655at186802        -            207   1.4e-89  296.6  15.2   2   2   9.9e-79   1.2e-75  251.1   9.4    29   206    46   238    40   239 0.91 # 127152 # 127955 # 1 # ID=1_112;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.307
+1_422                -            237 83655at186802        -            207   1.5e-09   35.2   8.5   1   1     2e-11   2.5e-08   31.2   8.5    19   206    10   210     3   211 0.72 # 508809 # 509519 # 1 # ID=1_422;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.291
+1_610                -            136 83655at186802        -            207     0.038   11.0   4.4   1   1   4.3e-05     0.054   10.5   4.4    21    78    77   133    67   135 0.90 # 735811 # 736218 # 1 # ID=1_610;partial=00;start_type=ATG;rbs_motif=AGxAGG/AGGxGG;rbs_spacer=5-10bp;gc_cont=0.257
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /home/johngn/Microbial-Genomics-Journey-Workshop-2023/Reads_session_3/busco_downloads/lineages/clostridiales_odb10/hmms/83655at186802.hmm
+# Target file:     /home/johngn/Microbial-Genomics-Journey-Workshop-2023/Reads_session_3/busco_op3/prodigal_output/predicted_genes/predicted.faa
+# Option settings: hmmsearch --domtblout /home/johngn/Microbial-Genomics-Journey-Workshop-2023/Reads_session_3/busco_op3/run_clostridiales_odb10/hmmer_output/83655at186802.out --cpu 1 /home/johngn/Microbial-Genomics-Journey-Workshop-2023/Reads_session_3/busco_downloads/lineages/clostridiales_odb10/hmms/83655at186802.hmm /home/johngn/Microbial-Genomics-Journey-Workshop-2023/Reads_session_3/busco_op3/prodigal_output/predicted_genes/predicted.faa 
+# Current dir:     /home/johngn/Microbial-Genomics-Journey-Workshop-2023/Reads_session_3
+# Date:            Wed Mar  1 18:12:50 2023
+# [ok]

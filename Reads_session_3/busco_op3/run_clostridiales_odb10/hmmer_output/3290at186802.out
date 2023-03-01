@@ -1,0 +1,22 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+1_2385               -            876 3290at186802         -            721         0 1020.3  13.8   1   1         0         0 1013.5  13.8     1   721     4   871     4   871 0.86 # 2657274 # 2659901 # -1 # ID=1_2385;partial=00;start_type=ATG;rbs_motif=GGxGG;rbs_spacer=5-10bp;gc_cont=0.331
+1_2739               -            571 3290at186802         -            721     4e-61  204.6   3.9   1   3    0.0048       4.5    2.8   0.1   328   364     3    36     1    48 0.78 # 3079475 # 3081187 # -1 # ID=1_2739;partial=00;start_type=ATG;rbs_motif=AGGAGG;rbs_spacer=5-10bp;gc_cont=0.317
+1_2739               -            571 3290at186802         -            721     4e-61  204.6   3.9   2   3   2.1e-14   1.9e-11   40.3   0.3   345   422   149   230   141   257 0.78 # 3079475 # 3081187 # -1 # ID=1_2739;partial=00;start_type=ATG;rbs_motif=AGGAGG;rbs_spacer=5-10bp;gc_cont=0.317
+1_2739               -            571 3290at186802         -            721     4e-61  204.6   3.9   3   3   7.1e-51   6.6e-48  160.9   0.0   430   718   268   538   258   541 0.86 # 3079475 # 3081187 # -1 # ID=1_2739;partial=00;start_type=ATG;rbs_motif=AGGAGG;rbs_spacer=5-10bp;gc_cont=0.317
+1_554                -            856 3290at186802         -            721   1.2e-45  153.4   4.8   1   3   2.5e-33   2.4e-30  102.9   0.2    10   250    13   226     4   231 0.85 # 667829 # 670396 # 1 # ID=1_554;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.403
+1_554                -            856 3290at186802         -            721   1.2e-45  153.4   4.8   2   3   3.8e-06    0.0036   13.0   0.0   255   287   282   316   271   333 0.83 # 667829 # 670396 # 1 # ID=1_554;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.403
+1_554                -            856 3290at186802         -            721   1.2e-45  153.4   4.8   3   3   3.3e-13   3.1e-10   36.4   0.3   348   418   779   851   734   854 0.80 # 667829 # 670396 # 1 # ID=1_554;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.403
+1_3443               -            587 3290at186802         -            721   2.2e-14   50.1   7.7   1   2     0.078        73   -1.2   0.0   261   708   175   197   133   248 0.59 # 3886245 # 3888005 # -1 # ID=1_3443;partial=00;start_type=ATG;rbs_motif=AGGAGG;rbs_spacer=5-10bp;gc_cont=0.330
+1_3443               -            587 3290at186802         -            721   2.2e-14   50.1   7.7   2   2   2.3e-17   2.2e-14   50.1   5.9   322   422   473   582   430   585 0.82 # 3886245 # 3888005 # -1 # ID=1_3443;partial=00;start_type=ATG;rbs_motif=AGGAGG;rbs_spacer=5-10bp;gc_cont=0.330
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /home/johngn/Microbial-Genomics-Journey-Workshop-2023/Reads_session_3/busco_downloads/lineages/clostridiales_odb10/hmms/3290at186802.hmm
+# Target file:     /home/johngn/Microbial-Genomics-Journey-Workshop-2023/Reads_session_3/busco_op3/prodigal_output/predicted_genes/predicted.faa
+# Option settings: hmmsearch --domtblout /home/johngn/Microbial-Genomics-Journey-Workshop-2023/Reads_session_3/busco_op3/run_clostridiales_odb10/hmmer_output/3290at186802.out --cpu 1 /home/johngn/Microbial-Genomics-Journey-Workshop-2023/Reads_session_3/busco_downloads/lineages/clostridiales_odb10/hmms/3290at186802.hmm /home/johngn/Microbial-Genomics-Journey-Workshop-2023/Reads_session_3/busco_op3/prodigal_output/predicted_genes/predicted.faa 
+# Current dir:     /home/johngn/Microbial-Genomics-Journey-Workshop-2023/Reads_session_3
+# Date:            Wed Mar  1 18:12:44 2023
+# [ok]

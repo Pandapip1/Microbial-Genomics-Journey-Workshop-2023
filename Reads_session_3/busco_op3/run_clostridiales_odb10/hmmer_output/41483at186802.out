@@ -1,0 +1,25 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+1_3574               -            451 41483at186802        -            332  5.5e-110  365.3   7.5   1   3   7.8e-70   7.3e-67  223.5   1.0     1   179     3   201     3   214 0.88 # 4031145 # 4032497 # 1 # ID=1_3574;partial=00;start_type=ATG;rbs_motif=AGxAGG/AGGxGG;rbs_spacer=5-10bp;gc_cont=0.315
+1_3574               -            451 41483at186802        -            332  5.5e-110  365.3   7.5   2   3   1.5e-42   1.4e-39  133.9   0.2   176   304   246   390   236   407 0.86 # 4031145 # 4032497 # 1 # ID=1_3574;partial=00;start_type=ATG;rbs_motif=AGxAGG/AGGxGG;rbs_spacer=5-10bp;gc_cont=0.315
+1_3574               -            451 41483at186802        -            332  5.5e-110  365.3   7.5   3   3   4.6e-05     0.043   10.6   0.0   305   331   421   447   399   448 0.79 # 4031145 # 4032497 # 1 # ID=1_3574;partial=00;start_type=ATG;rbs_motif=AGxAGG/AGGxGG;rbs_spacer=5-10bp;gc_cont=0.315
+1_2646               -            485 41483at186802        -            332   1.4e-16   58.3   2.4   1   4   2.1e-06     0.002   15.1   0.1    86   145   104   164    85   168 0.78 # 2954769 # 2956223 # -1 # ID=1_2646;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.293
+1_2646               -            485 41483at186802        -            332   1.4e-16   58.3   2.4   2   4   6.7e-06    0.0062   13.4   0.2   149   187   193   230   185   248 0.79 # 2954769 # 2956223 # -1 # ID=1_2646;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.293
+1_2646               -            485 41483at186802        -            332   1.4e-16   58.3   2.4   3   4   3.1e-10   2.9e-07   27.6   0.0   196   266   287   373   272   421 0.78 # 2954769 # 2956223 # -1 # ID=1_2646;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.293
+1_2646               -            485 41483at186802        -            332   1.4e-16   58.3   2.4   4   4      0.79   7.4e+02   -3.3   0.0   300   322   434   457   425   463 0.69 # 2954769 # 2956223 # -1 # ID=1_2646;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.293
+1_2634               -            452 41483at186802        -            332   4.9e-16   56.5   3.6   1   3     5e-17   4.6e-14   50.0   0.9    86   190   111   221    68   230 0.79 # 2938915 # 2940270 # -1 # ID=1_2634;partial=00;start_type=ATG;rbs_motif=AGxAGG/AGGxGG;rbs_spacer=5-10bp;gc_cont=0.294
+1_2634               -            452 41483at186802        -            332   4.9e-16   56.5   3.6   2   3      0.46   4.3e+02   -2.5   0.0   288   318   230   260   225   266 0.86 # 2938915 # 2940270 # -1 # ID=1_2634;partial=00;start_type=ATG;rbs_motif=AGxAGG/AGGxGG;rbs_spacer=5-10bp;gc_cont=0.294
+1_2634               -            452 41483at186802        -            332   4.9e-16   56.5   3.6   3   3   0.00092      0.86    6.4   0.1   198   234   272   318   250   353 0.70 # 2938915 # 2940270 # -1 # ID=1_2634;partial=00;start_type=ATG;rbs_motif=AGxAGG/AGGxGG;rbs_spacer=5-10bp;gc_cont=0.294
+1_2636               -            458 41483at186802        -            332   1.1e-08   32.3   1.7   1   2   0.00031      0.29    7.9   0.4    87   172   110   207    75   247 0.61 # 2941298 # 2942671 # -1 # ID=1_2636;partial=00;start_type=ATG;rbs_motif=AGGAGG;rbs_spacer=5-10bp;gc_cont=0.274
+1_2636               -            458 41483at186802        -            332   1.1e-08   32.3   1.7   2   2     2e-08   1.8e-05   21.7   0.0   177   257   259   351   236   356 0.75 # 2941298 # 2942671 # -1 # ID=1_2636;partial=00;start_type=ATG;rbs_motif=AGGAGG;rbs_spacer=5-10bp;gc_cont=0.274
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /home/johngn/Microbial-Genomics-Journey-Workshop-2023/Reads_session_3/busco_downloads/lineages/clostridiales_odb10/hmms/41483at186802.hmm
+# Target file:     /home/johngn/Microbial-Genomics-Journey-Workshop-2023/Reads_session_3/busco_op3/prodigal_output/predicted_genes/predicted.faa
+# Option settings: hmmsearch --domtblout /home/johngn/Microbial-Genomics-Journey-Workshop-2023/Reads_session_3/busco_op3/run_clostridiales_odb10/hmmer_output/41483at186802.out --cpu 1 /home/johngn/Microbial-Genomics-Journey-Workshop-2023/Reads_session_3/busco_downloads/lineages/clostridiales_odb10/hmms/41483at186802.hmm /home/johngn/Microbial-Genomics-Journey-Workshop-2023/Reads_session_3/busco_op3/prodigal_output/predicted_genes/predicted.faa 
+# Current dir:     /home/johngn/Microbial-Genomics-Journey-Workshop-2023/Reads_session_3
+# Date:            Wed Mar  1 18:12:45 2023
+# [ok]
