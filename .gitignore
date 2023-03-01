@@ -4,3 +4,5 @@ Registration_attendance
 Workshop_sessions.md
 emails.docx
 .DS_Store
+*/*.fasta
+*/*.fastq
