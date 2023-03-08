@@ -1,0 +1,22 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+contig00707_3        -            202 25878at72274         -            264   2.3e-97  324.5   0.0   1   1  2.7e-100   2.6e-97  324.3   0.0    82   264     1   195     1   195 0.97 # 1831 # 2436 # -1 # ID=707_3;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.667
+contig01018_3        -            236 25878at72274         -            264   6.2e-25   87.0   0.0   1   1   8.2e-28   7.7e-25   86.7   0.0    57   220    62   236    48   236 0.85 # 1236 # 1943 # 1 # ID=1018_3;partial=01;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.686
+contig01917_1        -             92 25878at72274         -            264   2.4e-21   75.3   0.1   1   1     3e-24   2.8e-21   75.0   0.1     1    70     4    92     4    92 0.83 # 2 # 277 # -1 # ID=1917_1;partial=10;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.641
+contig00152_4        -            317 25878at72274         -            264   3.1e-11   42.1   0.0   1   1   4.1e-14   3.8e-11   41.8   0.0   101   173   139   217   117   291 0.82 # 1517 # 2467 # -1 # ID=152_4;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.703
+contig01594_2        -            221 25878at72274         -            264     2e-08   32.9   0.0   1   1   2.9e-11   2.7e-08   32.4   0.0    97   171    80   155    72   184 0.85 # 206 # 868 # -1 # ID=1594_2;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.722
+contig00457_4        -            358 25878at72274         -            264   6.8e-06   24.6   0.0   1   1     1e-08   9.7e-06   24.1   0.0    92   182   170   266   159   280 0.84 # 1512 # 2585 # -1 # ID=457_4;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.643
+contig01985_1        -            226 25878at72274         -            264   8.7e-05   21.0   0.0   1   1   1.4e-07   0.00013   20.4   0.0    97   163    41   112    33   118 0.74 # 2 # 679 # -1 # ID=1985_1;partial=10;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.711
+contig02009_1        -            361 25878at72274         -            264    0.0002   19.8   0.0   1   1   3.1e-07   0.00029   19.3   0.0   101   179   228   313   199   339 0.78 # 1 # 1083 # 1 # ID=2009_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.710
+contig01758_2        -            248 25878at72274         -            264    0.0022   16.4   0.0   1   1   3.2e-06     0.003   15.9   0.0   100   166   112   182   101   190 0.82 # 514 # 1257 # -1 # ID=1758_2;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.712
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /home/johngn/Microbial-Genomics-Journey-Workshop-2023/Reads_session_3/busco_downloads/lineages/pseudomonadales_odb10/hmms/25878at72274.hmm
+# Target file:     /home/johngn/Microbial-Genomics-Journey-Workshop-2023/Reads_session_3/busco_op4/prodigal_output/predicted_genes/predicted.faa
+# Option settings: hmmsearch --domtblout /home/johngn/Microbial-Genomics-Journey-Workshop-2023/Reads_session_3/busco_op4/run_pseudomonadales_odb10/hmmer_output/25878at72274.out --cpu 1 /home/johngn/Microbial-Genomics-Journey-Workshop-2023/Reads_session_3/busco_downloads/lineages/pseudomonadales_odb10/hmms/25878at72274.hmm /home/johngn/Microbial-Genomics-Journey-Workshop-2023/Reads_session_3/busco_op4/prodigal_output/predicted_genes/predicted.faa 
+# Current dir:     /home/johngn/Microbial-Genomics-Journey-Workshop-2023/Reads_session_3
+# Date:            Wed Mar  8 17:01:18 2023
+# [ok]

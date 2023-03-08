@@ -1,0 +1,789 @@
+# BUSCO version is: 5.4.4 
+# The lineage dataset is: pseudomonadales_odb10 (Creation date: 2020-03-06, number of genomes: 159, number of BUSCOs: 782)
+# Busco id	Status	Sequence	Gene Start	Gene End	Strand	Score	Length	OrthoDB url	Description
+207at72274	Missing
+208at72274	Fragmented	contig00217	1	2571	+	1534.7	773	https://www.orthodb.org/v10?query=208at72274	DNA-directed RNA polymerase subunit beta
+209at72274	Complete	contig00131	578	5023	+	2303.5	1261	https://www.orthodb.org/v10?query=209at72274	Glutamate synthase
+299at72274	Fragmented	contig00676	37	2502	+	1210.3	698	https://www.orthodb.org/v10?query=299at72274	ATP-dependent helicase
+391at72274	Missing
+395at72274	Missing
+436at72274	Fragmented	contig00507	1	1488	-	898.2	431	https://www.orthodb.org/v10?query=436at72274	carbamoyl phosphate synthase large subunit
+457at72274	Complete	contig00265	1	3675	+	863.3	764	https://www.orthodb.org/v10?query=457at72274	RecBCD enzyme subunit RecB
+543at72274	Missing
+606at72274	Complete	contig00472	2	3004	+	1363.9	810	https://www.orthodb.org/v10?query=606at72274	Transcription-repair-coupling factor
+712at72274	Fragmented	contig02369	2	901	-	361.9	282	https://www.orthodb.org/v10?query=712at72274	translocation/assembly module TamB
+813at72274	Fragmented	contig00980	285	1997	+	949.8	470	https://www.orthodb.org/v10?query=813at72274	valine--tRNA ligase
+865at72274	Missing
+927at72274	Complete	contig00324	677	3568	+	1195.7	747	https://www.orthodb.org/v10?query=927at72274	Ribonucleoside-diphosphate reductase
+995at72274	Missing
+1004at72274	Complete	contig00190	799	3747	-	1028.0	1041	https://www.orthodb.org/v10?query=1004at72274	Bifunctional glutamine synthetase adenylyltransferase/adenylyl-removing enzyme
+1036at72274	Complete	contig00209	1857	4283	-	1072.6	680	https://www.orthodb.org/v10?query=1036at72274	DNA polymerase I
+1067at72274	Missing
+1242at72274	Fragmented	contig00855	134	2200	+	1174.5	596	https://www.orthodb.org/v10?query=1242at72274	aconitate hydratase B
+1384at72274	Complete	contig00083	1490	4096	+	1457.2	760	https://www.orthodb.org/v10?query=1384at72274	DNA topoisomerase I
+1440at72274	Complete	contig00301	394	3144	-	1460.4	799	https://www.orthodb.org/v10?query=1440at72274	Protein translocase subunit SecA
+1456at72274	Fragmented	contig01062	3	1892	-	554.4	464	https://www.orthodb.org/v10?query=1456at72274	exodeoxyribonuclease V subunit gamma
+1471at72274	Missing
+1600at72274	Fragmented	contig00733	1	2394	+	1190.9	662	https://www.orthodb.org/v10?query=1600at72274	DNA polymerase III subunit alpha
+1634at72274	Complete	contig00222	539	3370	+	1560.9	821	https://www.orthodb.org/v10?query=1634at72274	2-oxoglutarate dehydrogenase E1 component
+1707at72274	Complete	contig00024	1538	4255	+	1231.5	713	https://www.orthodb.org/v10?query=1707at72274	NADH-quinone oxidoreductase
+1753at72274	Complete	contig00519	313	2886	+	1076.8	695	https://www.orthodb.org/v10?query=1753at72274	aminopeptidase N
+1843at72274	Complete	contig00046	5028	7742	-	997.5	646	https://www.orthodb.org/v10?query=1843at72274	ribonuclease R
+1917at72274	Fragmented	contig00851	284	2206	-	968.5	499	https://www.orthodb.org/v10?query=1917at72274	DNA gyrase subunit B
+1961at72274	Missing
+1974at72274	Missing
+1982at72274	Missing
+2019at72274	Complete	contig00681	3	1988	-	1294.4	604	https://www.orthodb.org/v10?query=2019at72274	YgiQ family radical SAM protein
+2112at72274	Fragmented	contig01008	1	1686	+	778.2	475	https://www.orthodb.org/v10?query=2112at72274	DNA mismatch repair protein MutS
+2210at72274	Missing
+2251at72274	Missing
+2303at72274	Complete	contig00201	3	1760	-	681.5	447	https://www.orthodb.org/v10?query=2303at72274	DNA ligase
+2348at72274	Missing
+2487at72274	Missing
+2667at72274	Complete	contig00444	3	2399	-	1069.9	676	https://www.orthodb.org/v10?query=2667at72274	phosphoenolpyruvate carboxylase
+2718at72274	Missing
+2722at72274	Missing
+2787at72274	Complete	contig00187	484	2823	-	986.1	598	https://www.orthodb.org/v10?query=2787at72274	RNA-binding transcriptional accessory protein
+2855at72274	Missing
+2861at72274	Missing
+2968at72274	Fragmented	contig00447	1829	3064	-	761.4	387	https://www.orthodb.org/v10?query=2968at72274	isocitrate dehydrogenase, NADP-dependent
+2971at72274	Fragmented	contig00796	3	707	+	362.7	196	https://www.orthodb.org/v10?query=2971at72274	ATP-dependent protease
+3072at72274	Complete	contig00080	3331	5508	-	861.7	573	https://www.orthodb.org/v10?query=3072at72274	23S rRNA (guanine(2445)-N(2))/(guanine(2069)-N(7))- methyltransferase
+3123at72274	Missing
+3150at72274	Fragmented	contig00699	2	679	+	345.0	190	https://www.orthodb.org/v10?query=3150at72274	3-phosphoshikimate 1-carboxyvinyltransferase
+3242at72274	Complete	contig00234	1705	4155	+	1287.7	684	https://www.orthodb.org/v10?query=3242at72274	leucine--tRNA ligase
+3277at72274	Missing
+3392at72274	Complete	contig00084	614	3085	-	1030.3	642	https://www.orthodb.org/v10?query=3392at72274	peptidase
+3393at72274	Fragmented	contig00443	1696	3081	+	521.0	383	https://www.orthodb.org/v10?query=3393at72274	Histidine kinase
+3407at72274	Missing
+3448at72274	Missing
+3460at72274	Complete	contig00034	3	1979	-	930.1	563	https://www.orthodb.org/v10?query=3460at72274	Fatty acid oxidation complex subunit alpha
+3513at72274	Missing
+3634at72274	Complete	contig00390	1283	3055	+	914.9	505	https://www.orthodb.org/v10?query=3634at72274	succinate dehydrogenase flavoprotein subunit
+3680at72274	Fragmented	contig01426	314	1513	+	623.4	361	https://www.orthodb.org/v10?query=3680at72274	phenylalanine--tRNA ligase subunit beta
+3705at72274	Missing
+3912at72274	Fragmented	contig01778	2	1234	-	694.9	357	https://www.orthodb.org/v10?query=3912at72274	transketolase
+3949at72274	Fragmented	contig01800	3	1211	-	630.8	359	https://www.orthodb.org/v10?query=3949at72274	primosomal protein N'
+3999at72274	Missing
+4074at72274	Complete	contig00624	136	2040	-	958.4	548	https://www.orthodb.org/v10?query=4074at72274	Chaperone protein HtpG
+4076at72274	Complete	contig00950	1	1623	+	1030.8	499	https://www.orthodb.org/v10?query=4076at72274	NADH-quinone oxidoreductase subunit C/D
+4251at72274	Complete	contig00803	464	2272	-	915.1	490	https://www.orthodb.org/v10?query=4251at72274	DNA topoisomerase IV subunit B
+4452at72274	Complete	contig00002	27323	29299	-	817.8	598	https://www.orthodb.org/v10?query=4452at72274	excinuclease ABC subunit B
+4619at72274	Fragmented	contig02146	2	1012	+	688.6	322	https://www.orthodb.org/v10?query=4619at72274	tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG
+4793at72274	Fragmented	contig00669	2	1171	-	725.3	362	https://www.orthodb.org/v10?query=4793at72274	Chaperone protein DnaK
+4804at72274	Complete	contig00968	330	2015	-	760.8	454	https://www.orthodb.org/v10?query=4804at72274	Protein translocase subunit SecD
+4962at72274	Complete	contig00081	3922	5967	+	912.5	580	https://www.orthodb.org/v10?query=4962at72274	oligopeptidase A
+5009at72274	Fragmented	contig01504	1	1440	+	801.6	441	https://www.orthodb.org/v10?query=5009at72274	polyribonucleotide nucleotidyltransferase
+5031at72274	Fragmented	contig00216	2760	4259	-	803.2	447	https://www.orthodb.org/v10?query=5031at72274	phosphate acetyltransferase
+5089at72274	Complete	contig00085	1116	2786	-	931.4	500	https://www.orthodb.org/v10?query=5089at72274	glutamine--tRNA ligase
+5798at72274	Complete	contig01005	337	1965	-	755.3	457	https://www.orthodb.org/v10?query=5798at72274	glutamine--fructose-6-phosphate aminotransferase
+5969at72274	Missing
+6086at72274	Complete	contig00346	178	1902	-	1021.1	520	https://www.orthodb.org/v10?query=6086at72274	Acetolactate synthase
+6134at72274	Complete	contig00068	2158	4017	+	791.9	537	https://www.orthodb.org/v10?query=6134at72274	molecular chaperone HscA
+6190at72274	Missing
+6205at72274	Complete	contig00034	7335	8999	+	500.7	435	https://www.orthodb.org/v10?query=6205at72274	lytic transglycosylase
+6231at72274	Complete	contig00409	1923	3227	+	527.3	346	https://www.orthodb.org/v10?query=6231at72274	isocitrate lyase
+6237at72274	Missing
+6309at72274	Fragmented	contig01808	1	1206	-	708.6	367	https://www.orthodb.org/v10?query=6309at72274	aspartate--tRNA ligase
+6339at72274	Complete	contig00362	621	2447	-	873.4	519	https://www.orthodb.org/v10?query=6339at72274	excinuclease ABC subunit C
+6352at72274	Fragmented	contig00706	1002	2438	-	776.1	421	https://www.orthodb.org/v10?query=6352at72274	GTP-binding protein
+6377at72274	Missing
+6380at72274	Missing
+6391at72274	Fragmented	contig01535	3	1421	+	480.0	401	https://www.orthodb.org/v10?query=6391at72274	ABC transporter permease
+6397at72274	Missing
+6493at72274	Complete	contig00802	142	1719	-	884.4	458	https://www.orthodb.org/v10?query=6493at72274	GMP synthase 
+6653at72274	Complete	contig00345	3	1484	-	854.2	423	https://www.orthodb.org/v10?query=6653at72274	peptide chain release factor 3
+6860at72274	Complete	contig00343	337	2100	+	553.4	445	https://www.orthodb.org/v10?query=6860at72274	arginine--tRNA ligase
+7044at72274	Complete	contig00316	1279	3132	-	907.0	519	https://www.orthodb.org/v10?query=7044at72274	RNA polymerase sigma factor RpoD
+7477at72274	Missing
+7583at72274	Complete	contig00159	3203	4885	+	756.0	486	https://www.orthodb.org/v10?query=7583at72274	single-stranded-DNA-specific exonuclease RecJ
+7615at72274	Complete	contig00041	385	2268	-	915.7	519	https://www.orthodb.org/v10?query=7615at72274	1-deoxy-D-xylulose-5-phosphate synthase
+7643at72274	Missing
+8141at72274	Missing
+8335at72274	Complete	contig00428	2	1603	-	889.3	465	https://www.orthodb.org/v10?query=8335at72274	Bifunctional purine biosynthesis protein PurH
+8410at72274	Complete	contig00622	3	1457	-	746.1	433	https://www.orthodb.org/v10?query=8410at72274	glycerol kinase
+8435at72274	Complete	contig00181	1103	3067	-	534.5	454	https://www.orthodb.org/v10?query=8435at72274	tRNA 5-methylaminomethyl-2-thiouridine biosynthesis bifunctional protein MnmC
+8457at72274	Missing
+8956at72274	Complete	contig00024	6670	8517	+	806.4	505	https://www.orthodb.org/v10?query=8956at72274	NADH-quinone oxidoreductase subunit L
+8990at72274	Complete	contig01480	1	1341	+	677.1	388	https://www.orthodb.org/v10?query=8990at72274	dihydrolipoyl dehydrogenase
+9094at72274	Complete	contig00335	471	1880	+	785.6	406	https://www.orthodb.org/v10?query=9094at72274	Glutamine synthetase
+9146at72274	Missing
+9189at72274	Complete	contig01626	338	1354	+	539.1	303	https://www.orthodb.org/v10?query=9189at72274	aminotransferase
+9255at72274	Fragmented	contig01988	211	1092	-	497.9	263	https://www.orthodb.org/v10?query=9255at72274	electron transfer flavoprotein-ubiquinone oxidoreductase
+9260at72274	Fragmented	contig01782	641	1231	-	355.8	190	https://www.orthodb.org/v10?query=9260at72274	ribonuclease G
+9341at72274	Complete	contig00034	5187	7109	-	804.7	502	https://www.orthodb.org/v10?query=9341at72274	ABC transporter ATP-binding protein
+9430at72274	Fragmented	contig01403	228	1538	+	479.6	355	https://www.orthodb.org/v10?query=9430at72274	cell division protein
+9496at72274	Missing
+9575at72274	Complete	contig00329	99	1622	-	908.0	457	https://www.orthodb.org/v10?query=9575at72274	fumarate hydratase
+9588at72274	Complete	contig00900	272	2056	-	575.7	470	https://www.orthodb.org/v10?query=9588at72274	AmpG family muropeptide MFS transporter
+9608at72274	Missing
+9781at72274	Complete	contig00436	114	1898	+	752.8	442	https://www.orthodb.org/v10?query=9781at72274	type II secretion system protein E
+9852at72274	Missing
+9938at72274	Complete	contig00024	60	1406	+	697.9	371	https://www.orthodb.org/v10?query=9938at72274	NADH-ubiquinone oxidoreductase 51kDa subunit, FMN-binding domain
+9960at72274	Fragmented	contig00800	1	786	+	270.0	186	https://www.orthodb.org/v10?query=9960at72274	Membrane-bound lytic murein transglycosylase F
+10023at72274	Complete	contig00024	8545	10074	+	741.7	434	https://www.orthodb.org/v10?query=10023at72274	NADH
+10050at72274	Complete	contig01093	82	1665	+	599.6	414	https://www.orthodb.org/v10?query=10050at72274	glutamate--cysteine ligase
+10071at72274	Fragmented	contig02277	2	946	+	567.3	284	https://www.orthodb.org/v10?query=10071at72274	adenosylhomocysteinase
+10120at72274	Fragmented	contig02340	82	921	-	396.1	239	https://www.orthodb.org/v10?query=10120at72274	Lipid A export ATP-binding/permease protein MsbA
+10280at72274	Fragmented	contig01918	733	1134	-	269.2	126	https://www.orthodb.org/v10?query=10280at72274	NAD(P) transhydrogenase subunit beta
+10446at72274	Fragmented	contig00675	1795	2505	+	388.5	213	https://www.orthodb.org/v10?query=10446at72274	deoxyguanosinetriphosphate triphosphohydrolase
+10449at72274	Complete	contig01843	1	1182	+	533.1	310	https://www.orthodb.org/v10?query=10449at72274	Fumarate hydratase class II
+10543at72274	Missing
+10595at72274	Missing
+10681at72274	Missing
+10683at72274	Fragmented	contig00418	2232	3197	-	649.6	312	https://www.orthodb.org/v10?query=10683at72274	NAD(P)(+) transhydrogenase
+10690at72274	Complete	contig00678	414	1901	+	605.0	359	https://www.orthodb.org/v10?query=10690at72274	leucyl aminopeptidase
+10772at72274	Fragmented	contig01736	129	1271	+	342.7	278	https://www.orthodb.org/v10?query=10772at72274	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2, 6-diaminopimelate ligase
+10968at72274	Complete	contig00125	1641	3380	+	625.1	480	https://www.orthodb.org/v10?query=10968at72274	membrane protein
+10984at72274	Missing
+11020at72274	Fragmented	contig01854	1	858	+	459.0	267	https://www.orthodb.org/v10?query=11020at72274	Chromosomal replication initiator protein DnaA
+11088at72274	Complete	contig00212	1696	3066	-	769.7	407	https://www.orthodb.org/v10?query=11088at72274	adenylosuccinate lyase
+11099at72274	Complete	contig00202	3205	4374	+	632.2	339	https://www.orthodb.org/v10?query=11099at72274	3-isopropylmalate dehydratase large subunit
+11118at72274	Missing
+11213at72274	Missing
+11342at72274	Fragmented	contig00564	1	1470	-	291.1	305	https://www.orthodb.org/v10?query=11342at72274	competence protein ComEC
+11418at72274	Complete	contig00046	494	1888	-	642.2	386	https://www.orthodb.org/v10?query=11418at72274	replicative DNA helicase
+11441at72274	Complete	contig00150	3	1085	+	656.5	314	https://www.orthodb.org/v10?query=11441at72274	Citrate synthase
+11534at72274	Complete	contig01211	3	1466	-	431.5	376	https://www.orthodb.org/v10?query=11534at72274	two-component sensor histidine kinase
+11573at72274	Missing
+11597at72274	Fragmented	contig00631	3	1043	+	679.6	330	https://www.orthodb.org/v10?query=11597at72274	FAD-linked oxidase
+11748at72274	Fragmented	contig00415	2441	3214	+	431.2	231	https://www.orthodb.org/v10?query=11748at72274	Glutamate-1-semialdehyde 2,1-aminomutase
+11795at72274	Fragmented	contig01416	681	1526	-	484.3	256	https://www.orthodb.org/v10?query=11795at72274	ribosomal protein S12 methylthiotransferase
+11809at72274	Missing
+11817at72274	Complete	contig00537	1154	2755	-	674.9	415	https://www.orthodb.org/v10?query=11817at72274	ubiquinone biosynthesis regulatory protein kinase UbiB
+12019at72274	Missing
+12118at72274	Fragmented	contig02687	3	761	-	441.2	228	https://www.orthodb.org/v10?query=12118at72274	glutamate synthase
+12305at72274	Missing
+12335at72274	Complete	contig01131	3	1133	-	637.8	331	https://www.orthodb.org/v10?query=12335at72274	Protein translocase subunit SecY
+12585at72274	Complete	contig00797	929	2227	-	649.8	380	https://www.orthodb.org/v10?query=12585at72274	D-amino acid dehydrogenase
+12775at72274	Fragmented	contig02256	1	957	+	315.7	276	https://www.orthodb.org/v10?query=12775at72274	peptidyl-prolyl cis-trans isomerase
+13129at72274	Missing
+13261at72274	Complete	contig00962	3	1340	+	733.8	398	https://www.orthodb.org/v10?query=13261at72274	Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B
+13283at72274	Complete	contig00434	1148	2428	-	684.2	352	https://www.orthodb.org/v10?query=13283at72274	ATP-dependent Clp protease ATP-binding subunit ClpX
+13427at72274	Complete	contig00338	419	1816	+	605.9	373	https://www.orthodb.org/v10?query=13427at72274	Siroheme synthase
+13443at72274	Fragmented	contig02025	1	972	+	456.5	267	https://www.orthodb.org/v10?query=13443at72274	2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+13568at72274	Complete	contig00036	6112	7464	+	517.2	360	https://www.orthodb.org/v10?query=13568at72274	Zinc metalloprotease
+13645at72274	Fragmented	contig02075	202	1056	+	477.1	264	https://www.orthodb.org/v10?query=13645at72274	tRNA modification GTPase MnmE
+13747at72274	Complete	contig00364	89	1426	-	573.7	385	https://www.orthodb.org/v10?query=13747at72274	phosphoglucosamine mutase
+13880at72274	Complete	contig00317	562	1779	+	580.9	357	https://www.orthodb.org/v10?query=13880at72274	argininosuccinate synthase
+13951at72274	Missing
+14061at72274	Complete	contig00376	1777	2985	+	704.8	357	https://www.orthodb.org/v10?query=14061at72274	Tryptophan synthase beta chain
+14115at72274	Missing
+14127at72274	Missing
+14130at72274	Fragmented	contig00964	1	939	+	492.5	263	https://www.orthodb.org/v10?query=14130at72274	histidinol dehydrogenase
+14278at72274	Complete	contig00872	58	1362	+	409.7	319	https://www.orthodb.org/v10?query=14278at72274	16S rRNA (cytosine(967)-C(5))-methyltransferase
+14362at72274	Fragmented	contig02152	3	1007	+	285.2	246	https://www.orthodb.org/v10?query=14362at72274	Tol-Pal system protein TolB
+14446at72274	Complete	contig00312	570	1697	-	673.8	335	https://www.orthodb.org/v10?query=14446at72274	Queuine tRNA-ribosyltransferase
+14523at72274	Missing
+14524at72274	Complete	contig01205	240	1487	+	614.6	347	https://www.orthodb.org/v10?query=14524at72274	diaminopimelate decarboxylase
+14546at72274	Complete	contig00902	869	2113	+	620.8	380	https://www.orthodb.org/v10?query=14546at72274	lipid II flippase MurJ
+14552at72274	Fragmented	contig01144	3	827	+	384.6	232	https://www.orthodb.org/v10?query=14552at72274	succinyldiaminopimelate transaminase
+14567at72274	Complete	contig00600	1615	2679	+	572.3	313	https://www.orthodb.org/v10?query=14567at72274	aspartate kinase
+14812at72274	Complete	contig00332	48	1262	-	506.3	330	https://www.orthodb.org/v10?query=14812at72274	Phosphoserine phosphatase
+14816at72274	Fragmented	contig00704	1545	2447	-	454.3	256	https://www.orthodb.org/v10?query=14816at72274	Arginine biosynthesis bifunctional protein ArgJ
+14821at72274	Complete	contig01015	418	1671	+	445.4	330	https://www.orthodb.org/v10?query=14821at72274	cell division protein FtsA
+14956at72274	Complete	contig00871	1	1341	+	720.4	393	https://www.orthodb.org/v10?query=14956at72274	UDP-N-acetylmuramate--L-alanine ligase
+15149at72274	Missing
+15219at72274	Fragmented	contig02077	247	1053	+	487.8	252	https://www.orthodb.org/v10?query=15219at72274	signal recognition particle protein
+15329at72274	Missing
+15349at72274	Fragmented	contig01634	552	1349	+	254.2	202	https://www.orthodb.org/v10?query=15349at72274	anhydro-N-acetylmuramic acid kinase
+15423at72274	Complete	contig00237	396	1604	-	526.0	330	https://www.orthodb.org/v10?query=15423at72274	phosphopantothenoylcysteine decarboxylase
+15474at72274	Missing
+15493at72274	Complete	contig00355	1719	3122	-	562.5	368	https://www.orthodb.org/v10?query=15493at72274	Poly(A) polymerase I
+15646at72274	Missing
+15718at72274	Complete	contig00068	5288	6427	+	640.4	330	https://www.orthodb.org/v10?query=15718at72274	23S rRNA (adenine(2503)-C(2))-methyltransferase RlmN
+16137at72274	Missing
+16276at72274	Fragmented	contig00756	2	799	-	346.4	197	https://www.orthodb.org/v10?query=16276at72274	peptidase M16
+16452at72274	Fragmented	contig00970	1204	2013	+	392.3	239	https://www.orthodb.org/v10?query=16452at72274	selenoprotein O and cysteine-containing protein
+16460at72274	Complete	contig00417	2066	3193	+	581.6	325	https://www.orthodb.org/v10?query=16460at72274	Citrate synthase
+16462at72274	Fragmented	contig00507	2170	2922	-	409.6	210	https://www.orthodb.org/v10?query=16462at72274	carbamoyl-phosphate synthase small subunit
+16477at72274	Fragmented	contig00952	1	963	+	382.7	243	https://www.orthodb.org/v10?query=16477at72274	histidine--tRNA ligase
+16529at72274	Fragmented	contig03106	1	582	+	342.2	186	https://www.orthodb.org/v10?query=16529at72274	dihydroorotase
+16555at72274	Complete	contig00085	3	1106	-	623.9	329	https://www.orthodb.org/v10?query=16555at72274	cysteine--tRNA ligase
+16598at72274	Complete	contig01711	13	1290	+	647.8	366	https://www.orthodb.org/v10?query=16598at72274	phosphoribosylamine--glycine ligase
+16831at72274	Complete	contig01276	375	1646	+	615.1	371	https://www.orthodb.org/v10?query=16831at72274	exopolyphosphatase
+16907at72274	Complete	contig00245	1	1890	+	365.3	324	https://www.orthodb.org/v10?query=16907at72274	exodeoxyribonuclease V subunit alpha
+16977at72274	Complete	contig01840	3	1013	-	553.6	296	https://www.orthodb.org/v10?query=16977at72274	succinate--CoA ligase subunit beta
+17118at72274	Complete	contig00975	3	1202	-	656.4	351	https://www.orthodb.org/v10?query=17118at72274	tyrosine--tRNA ligase
+17132at72274	Complete	contig00136	1	1071	+	522.1	292	https://www.orthodb.org/v10?query=17132at72274	GTPase HflX
+17191at72274	Complete	contig01097	708	1850	-	397.1	296	https://www.orthodb.org/v10?query=17191at72274	23S rRNA (uracil(1939)-C(5))-methyltransferase
+17215at72274	Complete	contig00095	4365	5546	-	596.3	344	https://www.orthodb.org/v10?query=17215at72274	VWA domain-containing protein
+17279at72274	Complete	contig00177	2256	3437	-	421.8	303	https://www.orthodb.org/v10?query=17279at72274	Cysteine desulfurase IscS
+17346at72274	Fragmented	contig01268	1	861	+	274.9	197	https://www.orthodb.org/v10?query=17346at72274	Adenosylmethionine-8-amino-7-oxononanoate aminotransferase
+17347at72274	Complete	contig00726	184	1515	+	472.4	334	https://www.orthodb.org/v10?query=17347at72274	Histidine kinase
+17428at72274	Fragmented	contig02257	3	812	-	390.6	220	https://www.orthodb.org/v10?query=17428at72274	aspartate-semialdehyde dehydrogenase
+17520at72274	Missing
+17565at72274	Missing
+17584at72274	Complete	contig01108	169	1191	-	439.5	268	https://www.orthodb.org/v10?query=17584at72274	glycerol-3-phosphate dehydrogenase
+18102at72274	Missing
+18149at72274	Complete	contig00531	1859	2836	-	550.2	292	https://www.orthodb.org/v10?query=18149at72274	beta-ketoacyl-
+18206at72274	Fragmented	contig01755	3	947	-	453.3	257	https://www.orthodb.org/v10?query=18206at72274	Gamma-glutamyl phosphate reductase
+18218at72274	Fragmented	contig01496	3	1025	-	361.9	263	https://www.orthodb.org/v10?query=18218at72274	peptidase M48
+18225at72274	Fragmented	contig03214	26	547	-	330.9	163	https://www.orthodb.org/v10?query=18225at72274	Ribosome-binding ATPase YchF
+18265at72274	Complete	contig00794	2	1096	+	552.7	316	https://www.orthodb.org/v10?query=18265at72274	prephenate dehydratase
+18426at72274	Complete	contig00002	16942	18255	-	435.0	349	https://www.orthodb.org/v10?query=18426at72274	ATPase AAA
+18714at72274	Missing
+18752at72274	Complete	contig00297	982	2136	+	449.7	281	https://www.orthodb.org/v10?query=18752at72274	Oxygen-independent coproporphyrinogen-III oxidase-like protein
+18777at72274	Missing
+18974at72274	Fragmented	contig00785	1857	2309	-	282.8	146	https://www.orthodb.org/v10?query=18974at72274	dihydrolipoamide acetyltransferase
+19211at72274	Fragmented	contig00383	3	875	-	404.4	232	https://www.orthodb.org/v10?query=19211at72274	Periplasmic serine endoprotease DegP-like
+19244at72274	Complete	contig02190	111	986	+	446.9	244	https://www.orthodb.org/v10?query=19244at72274	chorismate synthase
+19292at72274	Complete	contig01224	383	1468	+	475.9	277	https://www.orthodb.org/v10?query=19292at72274	Epoxyqueuosine reductase
+19316at72274	Missing
+19630at72274	Missing
+19644at72274	Fragmented	contig01404	720	1538	+	337.6	226	https://www.orthodb.org/v10?query=19644at72274	5-(carboxyamino)imidazole ribonucleotide synthase
+19753at72274	Missing
+19791at72274	Complete	contig00098	4923	5885	+	431.8	245	https://www.orthodb.org/v10?query=19791at72274	2-alkenal reductase
+19991at72274	Complete	contig01315	177	1181	+	597.4	304	https://www.orthodb.org/v10?query=19991at72274	aspartate carbamoyltransferase
+20071at72274	Fragmented	contig02817	8	697	-	138.1	135	https://www.orthodb.org/v10?query=20071at72274	Nuclease SbcCD subunit D
+20191at72274	Missing
+20214at72274	Complete	contig00447	101	1228	-	615.1	314	https://www.orthodb.org/v10?query=20214at72274	tRNA 2-thiouridine(34) synthase MnmA
+20241at72274	Complete	contig00121	4089	5354	+	676.8	386	https://www.orthodb.org/v10?query=20241at72274	Glutamyl-tRNA(Gln) amidotransferase subunit A
+20515at72274	Complete	contig00066	517	1638	-	546.4	323	https://www.orthodb.org/v10?query=20515at72274	beta-ketoacyl-ACP synthase III
+20685at72274	Fragmented	contig00764	813	2348	+	575.3	405	https://www.orthodb.org/v10?query=20685at72274	chromosome segregation protein SMC
+20753at72274	Missing
+20800at72274	Complete	contig00036	4896	6086	+	513.9	325	https://www.orthodb.org/v10?query=20800at72274	1-deoxy-D-xylulose-5-phosphate reductoisomerase
+20851at72274	Missing
+20878at72274	Complete	contig00121	2509	3546	-	568.7	300	https://www.orthodb.org/v10?query=20878at72274	rod shape-determining protein
+20904at72274	Missing
+20929at72274	Missing
+21126at72274	Fragmented	contig01060	3	617	+	302.3	157	https://www.orthodb.org/v10?query=21126at72274	Biotin synthase
+21206at72274	Complete	contig02279	1	945	+	474.7	283	https://www.orthodb.org/v10?query=21206at72274	glutamate 5-kinase
+21460at72274	Complete	contig01692	3	1061	-	559.0	309	https://www.orthodb.org/v10?query=21460at72274	Phosphoserine aminotransferase
+21482at72274	Complete	contig00208	3135	4307	-	441.8	319	https://www.orthodb.org/v10?query=21482at72274	3-deoxy-D-manno-octulosonic-acid transferase
+21526at72274	Complete	contig01149	436	1452	-	650.3	313	https://www.orthodb.org/v10?query=21526at72274	ketol-acid reductoisomerase
+21547at72274	Missing
+21685at72274	Complete	contig00212	467	1636	-	396.1	298	https://www.orthodb.org/v10?query=21685at72274	cupin
+21757at72274	Complete	contig00843	1	1020	-	392.8	255	https://www.orthodb.org/v10?query=21757at72274	DNA polymerase IV
+21886at72274	Complete	contig01018	152	1234	+	528.0	295	https://www.orthodb.org/v10?query=21886at72274	peptide chain release factor 1
+22000at72274	Complete	contig00174	2214	3239	-	454.9	278	https://www.orthodb.org/v10?query=22000at72274	tRNA N6-adenosine threonylcarbamoyltransferase
+22001at72274	Complete	contig00530	665	1612	-	585.2	272	https://www.orthodb.org/v10?query=22001at72274	glycine--tRNA ligase subunit alpha
+22039at72274	Fragmented	contig01533	3	680	+	318.8	202	https://www.orthodb.org/v10?query=22039at72274	D-alanyl-D-alanine carboxypeptidase
+22102at72274	Complete	contig00213	2612	3679	-	607.5	327	https://www.orthodb.org/v10?query=22102at72274	uroporphyrinogen decarboxylase
+22284at72274	Missing
+22432at72274	Fragmented	contig02448	3	860	+	335.4	233	https://www.orthodb.org/v10?query=22432at72274	Bifunctional protein GlmU
+22679at72274	Fragmented	contig00083	1	942	+	505.7	277	https://www.orthodb.org/v10?query=22679at72274	acetyl-CoA C-acyltransferase FadA
+22700at72274	Missing
+23028at72274	Complete	contig00118	3674	4756	-	575.1	318	https://www.orthodb.org/v10?query=23028at72274	phospho-N-acetylmuramoyl-pentapeptide- transferase
+23030at72274	Complete	contig01063	2	973	+	398.2	264	https://www.orthodb.org/v10?query=23030at72274	NAD(P) transhydrogenase subunit alpha
+23144at72274	Complete	contig00253	1341	2405	+	654.8	317	https://www.orthodb.org/v10?query=23144at72274	fructose-1,6-bisphosphate aldolase
+23194at72274	Complete	contig00136	3553	4737	+	404.1	293	https://www.orthodb.org/v10?query=23194at72274	ATP phosphoribosyltransferase regulatory subunit
+23243at72274	Fragmented	contig02441	167	862	-	250.0	196	https://www.orthodb.org/v10?query=23243at72274	outer membrane protein assembly factor BamB
+23306at72274	Missing
+23374at72274	Complete	contig00482	327	1394	+	401.8	260	https://www.orthodb.org/v10?query=23374at72274	A/G-specific adenine glycosylase
+23468at72274	Complete	contig00592	1254	2360	-	525.7	312	https://www.orthodb.org/v10?query=23468at72274	3-dehydroquinate synthase
+23475at72274	Fragmented	contig03019	1	612	+	230.8	175	https://www.orthodb.org/v10?query=23475at72274	ribonuclease D
+23750at72274	Missing
+23835at72274	Complete	contig00494	1535	2650	+	641.1	327	https://www.orthodb.org/v10?query=23835at72274	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase
+23862at72274	Fragmented	contig01836	1	582	+	312.7	168	https://www.orthodb.org/v10?query=23862at72274	coproporphyrinogen III oxidase
+23903at72274	Complete	contig00118	2314	3660	-	500.3	350	https://www.orthodb.org/v10?query=23903at72274	UDP-N-acetylmuramoylalanine-D-glutamate ligase
+23949at72274	Fragmented	contig01975	3	668	+	332.9	203	https://www.orthodb.org/v10?query=23949at72274	Pseudouridine synthase
+24002at72274	Fragmented	contig02301	2	673	-	189.5	174	https://www.orthodb.org/v10?query=24002at72274	peptidyl-prolyl cis-trans isomerase
+24069at72274	Fragmented	contig00195	3552	4433	+	380.5	245	https://www.orthodb.org/v10?query=24069at72274	bifunctional folylpolyglutamate synthase/dihydrofolate synthase
+24117at72274	Complete	contig00175	1071	1973	-	521.0	264	https://www.orthodb.org/v10?query=24117at72274	peptide chain release factor 2
+24118at72274	Complete	contig00269	612	1658	+	543.2	306	https://www.orthodb.org/v10?query=24118at72274	dihydroorotase
+24142at72274	Complete	contig00656	127	1347	-	609.5	357	https://www.orthodb.org/v10?query=24142at72274	GTPase Obg
+24325at72274	Fragmented	contig00210	3550	4281	-	356.6	199	https://www.orthodb.org/v10?query=24325at72274	Fructose-1,6-bisphosphatase class 1
+24369at72274	Missing
+24553at72274	Complete	contig00118	52	1125	-	428.3	292	https://www.orthodb.org/v10?query=24553at72274	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+24560at72274	Complete	contig00144	2952	4094	-	378.6	278	https://www.orthodb.org/v10?query=24560at72274	Erythronate-4-phosphate dehydrogenase
+24801at72274	Complete	contig00428	2003	3001	-	466.1	265	https://www.orthodb.org/v10?query=24801at72274	tRNA-dihydrouridine synthase B
+24820at72274	Missing
+24909at72274	Fragmented	contig02778	3	680	-	195.8	163	https://www.orthodb.org/v10?query=24909at72274	aminoglycoside phosphotransferase
+24999at72274	Complete	contig00920	387	1436	+	382.8	237	https://www.orthodb.org/v10?query=24999at72274	Endolytic murein transglycosylase
+25123at72274	Complete	contig00450	1627	2652	-	397.6	265	https://www.orthodb.org/v10?query=25123at72274	Outer membrane protein assembly factor BamD
+25202at72274	Complete	contig00028	8573	9490	-	443.2	258	https://www.orthodb.org/v10?query=25202at72274	ornithine carbamoyltransferase
+25207at72274	Complete	contig00833	1252	2226	+	453.2	275	https://www.orthodb.org/v10?query=25207at72274	dihydroorotate dehydrogenase 2
+25406at72274	Fragmented	contig00024	10082	11149	+	393.7	281	https://www.orthodb.org/v10?query=25406at72274	NADH:ubiquinone oxidoreductase subunit N
+25465at72274	Fragmented	contig00510	2340	2915	+	283.1	170	https://www.orthodb.org/v10?query=25465at72274	transcriptional regulator
+25490at72274	Complete	contig00312	1701	2744	-	418.9	276	https://www.orthodb.org/v10?query=25490at72274	S-adenosylmethionine
+25563at72274	Complete	contig00410	309	1331	+	484.4	261	https://www.orthodb.org/v10?query=25563at72274	ATP-binding protein
+25696at72274	Missing
+25705at72274	Fragmented	contig00187	3850	4599	+	212.3	191	https://www.orthodb.org/v10?query=25705at72274	two-component sensor histidine kinase
+25716at72274	Missing
+25878at72274	Fragmented	contig00707	1831	2436	-	324.5	182	https://www.orthodb.org/v10?query=25878at72274	ribosomal protein L3 N(5)-glutamine methyltransferase
+25908at72274	Complete	contig00767	1061	2122	+	563.6	283	https://www.orthodb.org/v10?query=25908at72274	phosphoribosylformylglycinamidine cyclo-ligase
+25945at72274	Complete	contig00031	320	1264	+	491.5	265	https://www.orthodb.org/v10?query=25945at72274	4-hydroxy-3-methylbut-2-enyl diphosphate reductase
+26334at72274	Complete	contig00302	1204	2265	+	386.2	264	https://www.orthodb.org/v10?query=26334at72274	UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase
+26508at72274	Complete	contig00214	1197	2690	+	634.4	435	https://www.orthodb.org/v10?query=26508at72274	RNA polymerase sigma-54 factor
+26517at72274	Missing
+26581at72274	Complete	contig00810	796	1941	-	551.2	329	https://www.orthodb.org/v10?query=26581at72274	Peptidoglycan glycosyltransferase MrdB
+26676at72274	Complete	contig00922	1	1890	+	624.1	454	https://www.orthodb.org/v10?query=26676at72274	fimbrial protein
+26684at72274	Complete	contig00142	1966	2898	-	546.8	280	https://www.orthodb.org/v10?query=26684at72274	ribose-phosphate pyrophosphokinase
+26781at72274	Missing
+26787at72274	Complete	contig00846	1031	1942	-	415.0	247	https://www.orthodb.org/v10?query=26787at72274	UDP-3-O-acyl-N-acetylglucosamine deacetylase
+27481at72274	Complete	contig00756	947	2299	+	500.1	274	https://www.orthodb.org/v10?query=27481at72274	Signal recognition particle receptor FtsY
+27495at72274	Fragmented	contig00194	1	558	+	273.9	144	https://www.orthodb.org/v10?query=27495at72274	phosphatidylserine decarboxylase
+27539at72274	Fragmented	contig01869	542	1168	-	292.0	174	https://www.orthodb.org/v10?query=27539at72274	anthranilate phosphoribosyltransferase
+27577at72274	Complete	contig00202	2149	3042	-	389.2	250	https://www.orthodb.org/v10?query=27577at72274	LysR family transcriptional regulator
+27713at72274	Fragmented	contig00778	1	780	+	251.9	178	https://www.orthodb.org/v10?query=27713at72274	transcriptional regulator CysB
+27986at72274	Complete	contig01073	439	1275	-	241.6	204	https://www.orthodb.org/v10?query=27986at72274	Ribosomal RNA large subunit methyltransferase J
+28337at72274	Complete	contig00218	2400	3356	+	379.9	260	https://www.orthodb.org/v10?query=28337at72274	Pseudouridine synthase
+28379at72274	Complete	contig00705	141	911	-	445.6	226	https://www.orthodb.org/v10?query=28379at72274	Ubiquinone/menaquinone biosynthesis C-methyltransferase UbiE
+28390at72274	Complete	contig00427	523	1419	+	404.4	248	https://www.orthodb.org/v10?query=28390at72274	site-specific tyrosine recombinase XerD
+28456at72274	Complete	contig00075	2808	3581	+	345.8	220	https://www.orthodb.org/v10?query=28456at72274	class II glutamine amidotransferase
+28566at72274	Duplicated	contig01751	62	1258	-	532.0	347	https://www.orthodb.org/v10?query=28566at72274	type II secretion system protein F
+28566at72274	Duplicated	contig01735	1	1209	+	526.1	343	https://www.orthodb.org/v10?query=28566at72274	type II secretion system protein F
+28793at72274	Complete	contig01258	1	642	-	428.8	203	https://www.orthodb.org/v10?query=28793at72274	tRNA 2-thiocytidine(32) synthetase TtcA
+28919at72274	Complete	contig00386	73	1011	-	406.3	241	https://www.orthodb.org/v10?query=28919at72274	Rhodanese-like domain
+28950at72274	Complete	contig00512	1484	2263	+	322.5	210	https://www.orthodb.org/v10?query=28950at72274	exodeoxyribonuclease III
+29139at72274	Missing
+29150at72274	Complete	contig00333	1939	2778	-	276.4	201	https://www.orthodb.org/v10?query=29150at72274	UTP--glucose-1-phosphate uridylyltransferase
+29175at72274	Complete	contig01524	306	1307	-	446.1	283	https://www.orthodb.org/v10?query=29175at72274	Luciferase-like domain
+29190at72274	Missing
+29232at72274	Complete	contig00024	4252	5247	+	568.9	297	https://www.orthodb.org/v10?query=29232at72274	NADH-quinone oxidoreductase subunit H
+29288at72274	Complete	contig00118	1115	2314	-	417.1	301	https://www.orthodb.org/v10?query=29288at72274	cell division protein FtsW
+29396at72274	Complete	contig00750	1328	2233	+	470.1	258	https://www.orthodb.org/v10?query=29396at72274	acetylglutamate kinase
+29421at72274	Complete	contig01191	316	1335	-	453.3	296	https://www.orthodb.org/v10?query=29421at72274	Small ribosomal subunit biogenesis GTPase RsgA
+29426at72274	Complete	contig01274	826	1647	+	564.0	261	https://www.orthodb.org/v10?query=29426at72274	Protein RecA
+29543at72274	Complete	contig01096	824	1762	-	338.1	239	https://www.orthodb.org/v10?query=29543at72274	Riboflavin biosynthesis protein
+29546at72274	Missing
+29729at72274	Complete	contig00093	1344	2234	-	311.7	191	https://www.orthodb.org/v10?query=29729at72274	ATPase AAA
+29821at72274	Complete	contig02020	232	1077	+	485.6	247	https://www.orthodb.org/v10?query=29821at72274	ATPase AAA
+29873at72274	Fragmented	contig01424	933	1517	-	320.4	188	https://www.orthodb.org/v10?query=29873at72274	acetyl-CoA carboxylase carboxyltransferase subunit alpha
+29936at72274	Complete	contig00410	1800	2639	+	264.8	202	https://www.orthodb.org/v10?query=29936at72274	magnesium transporter
+30013at72274	Complete	contig00185	404	1225	+	460.2	240	https://www.orthodb.org/v10?query=30013at72274	Ribosomal protein L2
+30024at72274	Complete	contig00703	822	1682	+	475.9	255	https://www.orthodb.org/v10?query=30024at72274	ATP synthase gamma chain
+30055at72274	Complete	contig01578	492	1364	+	396.7	228	https://www.orthodb.org/v10?query=30055at72274	Methylenetetrahydrofolate reductase
+30119at72274	Complete	contig00087	5094	6035	+	375.6	246	https://www.orthodb.org/v10?query=30119at72274	16S rRNA (cytosine(1402)-N(4))-methyltransferase
+30228at72274	Fragmented	contig02907	3	656	-	273.6	167	https://www.orthodb.org/v10?query=30228at72274	Arabinose 5-phosphate isomerase
+30299at72274	Complete	contig00051	4936	5961	+	417.0	273	https://www.orthodb.org/v10?query=30299at72274	protease SohB
+30337at72274	Complete	contig00455	1567	2526	-	425.2	245	https://www.orthodb.org/v10?query=30337at72274	Protease HtpX
+30458at72274	Fragmented	contig00704	1	735	-	169.5	171	https://www.orthodb.org/v10?query=30458at72274	NUDIX hydrolase
+30483at72274	Missing
+30592at72274	Missing
+30676at72274	Complete	contig00417	1077	1973	+	523.2	271	https://www.orthodb.org/v10?query=30676at72274	methylisocitrate lyase
+30808at72274	Complete	contig00905	161	946	+	417.5	224	https://www.orthodb.org/v10?query=30808at72274	Methionine aminopeptidase
+31121at72274	Complete	contig01324	555	1526	-	378.7	259	https://www.orthodb.org/v10?query=31121at72274	tRNA dimethylallyltransferase
+31187at72274	Missing
+31290at72274	Complete	contig00078	1	936	+	253.3	213	https://www.orthodb.org/v10?query=31290at72274	DNA polymerase III subunit delta'
+31611at72274	Complete	contig00524	1022	1954	-	362.8	247	https://www.orthodb.org/v10?query=31611at72274	LysR family transcriptional regulator
+31677at72274	Complete	contig00195	2683	3555	+	425.7	240	https://www.orthodb.org/v10?query=31677at72274	acetyl-CoA carboxylase subunit beta
+31780at72274	Missing
+31831at72274	Missing
+31899at72274	Complete	contig02043	108	944	-	249.4	168	https://www.orthodb.org/v10?query=31899at72274	NADH pyrophosphatase
+31975at72274	Complete	contig00050	683	1477	+	305.2	210	https://www.orthodb.org/v10?query=31975at72274	thymidylate synthase
+32018at72274	Missing
+32132at72274	Missing
+32149at72274	Fragmented	contig02447	2	622	+	233.6	155	https://www.orthodb.org/v10?query=32149at72274	pantoate--beta-alanine ligase
+32154at72274	Complete	contig00524	2092	2868	+	199.4	193	https://www.orthodb.org/v10?query=32154at72274	NAD(P)-dependent oxidoreductase
+32265at72274	Complete	contig01624	416	1339	-	415.4	249	https://www.orthodb.org/v10?query=32265at72274	transaldolase
+32269at72274	Complete	contig01270	504	1349	-	484.7	246	https://www.orthodb.org/v10?query=32269at72274	3-deoxy-8-phosphooctulonate synthase
+32385at72274	Complete	contig01288	462	1352	-	402.2	248	https://www.orthodb.org/v10?query=32385at72274	4-hydroxybenzoate octaprenyltransferase
+32411at72274	Fragmented	contig01180	1	747	+	221.0	166	https://www.orthodb.org/v10?query=32411at72274	tRNA pseudouridine synthase B
+32427at72274	Missing
+32510at72274	Complete	contig00964	942	1997	+	460.4	296	https://www.orthodb.org/v10?query=32510at72274	Histidinol-phosphate aminotransferase
+32543at72274	Complete	contig00871	1338	2165	+	302.4	201	https://www.orthodb.org/v10?query=32543at72274	D-alanine--D-alanine ligase
+32688at72274	Complete	contig00306	2174	3106	+	502.5	268	https://www.orthodb.org/v10?query=32688at72274	ABC transporter
+32696at72274	Complete	contig00497	1241	2152	+	300.4	230	https://www.orthodb.org/v10?query=32696at72274	Tyrosine recombinase XerC
+32725at72274	Fragmented	contig02060	455	1063	+	232.2	157	https://www.orthodb.org/v10?query=32725at72274	nicotinate-nucleotide diphosphorylase (carboxylating)
+32802at72274	Fragmented	contig01869	3	545	-	217.1	148	https://www.orthodb.org/v10?query=32802at72274	Indole-3-glycerol phosphate synthase
+32857at72274	Fragmented	contig02699	1	543	-	208.7	129	https://www.orthodb.org/v10?query=32857at72274	ferredoxin--NADP(+) reductase
+32893at72274	Missing
+32976at72274	Fragmented	contig02216	607	975	+	198.6	118	https://www.orthodb.org/v10?query=32976at72274	cobalamin biosynthesis protein CobW
+33272at72274	Complete	contig00133	289	1356	-	313.2	258	https://www.orthodb.org/v10?query=33272at72274	AI-2E family transporter
+33308at72274	Complete	contig02219	2	784	-	363.0	223	https://www.orthodb.org/v10?query=33308at72274	D-alanyl-D-alanine endopeptidase
+33380at72274	Missing
+33385at72274	Complete	contig01396	3	878	-	288.5	227	https://www.orthodb.org/v10?query=33385at72274	homoserine kinase
+33673at72274	Fragmented	contig02886	3	665	-	271.8	187	https://www.orthodb.org/v10?query=33673at72274	methionyl-tRNA formyltransferase
+33789at72274	Complete	contig00041	2377	3264	-	354.4	233	https://www.orthodb.org/v10?query=33789at72274	geranyl transferase
+33816at72274	Fragmented	contig01052	1	711	+	313.7	201	https://www.orthodb.org/v10?query=33816at72274	Octaprenyl-diphosphate synthase
+33852at72274	Complete	contig01596	3	1088	-	540.7	337	https://www.orthodb.org/v10?query=33852at72274	glutamyl-tRNA reductase
+33857at72274	Complete	contig00035	1274	2161	+	269.0	221	https://www.orthodb.org/v10?query=33857at72274	phosphatase
+33946at72274	Missing
+33957at72274	Complete	contig00583	207	1100	-	338.9	259	https://www.orthodb.org/v10?query=33957at72274	energy transducer TonB
+34213at72274	Complete	contig00427	1546	2274	+	234.8	190	https://www.orthodb.org/v10?query=34213at72274	Thiol
+34228at72274	Complete	contig02021	294	1076	+	404.3	221	https://www.orthodb.org/v10?query=34228at72274	RNA polymerase factor sigma-32
+34317at72274	Fragmented	contig01321	1050	1607	-	289.6	170	https://www.orthodb.org/v10?query=34317at72274	Protein-export membrane protein SecF
+34441at72274	Missing
+34472at72274	Complete	contig00583	1247	2200	-	470.8	267	https://www.orthodb.org/v10?query=34472at72274	glutathione synthase
+34578at72274	Missing
+34650at72274	Complete	contig00894	1182	1961	+	263.4	190	https://www.orthodb.org/v10?query=34650at72274	hydrolase TatD
+34866at72274	Complete	contig01758	514	1257	-	318.3	207	https://www.orthodb.org/v10?query=34866at72274	ribosomal protein L11 methyltransferase
+34940at72274	Complete	contig00302	2748	3524	+	381.7	225	https://www.orthodb.org/v10?query=34940at72274	Acyl-
+35049at72274	Complete	contig01861	1	765	+	365.1	230	https://www.orthodb.org/v10?query=35049at72274	Formamidopyrimidine-DNA glycosylase
+35068at72274	Missing
+35129at72274	Complete	contig01491	679	1455	-	251.6	186	https://www.orthodb.org/v10?query=35129at72274	glutamate racemase
+35212at72274	Complete	contig00142	3074	3922	-	267.6	203	https://www.orthodb.org/v10?query=35212at72274	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+35233at72274	Complete	contig00233	3152	3970	-	425.0	243	https://www.orthodb.org/v10?query=35233at72274	sulfate ABC transporter permease subunit CysT
+35275at72274	Missing
+35425at72274	Complete	contig00311	1999	3087	+	328.2	253	https://www.orthodb.org/v10?query=35425at72274	DNA protecting protein DprA
+35498at72274	Missing
+35711at72274	Complete	contig00613	1161	1976	-	421.7	223	https://www.orthodb.org/v10?query=35711at72274	Site-determining protein
+35771at72274	Fragmented	contig00376	2982	3401	+	178.8	118	https://www.orthodb.org/v10?query=35771at72274	Tryptophan synthase alpha chain
+35885at72274	Complete	contig01031	133	1131	+	469.8	268	https://www.orthodb.org/v10?query=35885at72274	beta-N-acetylhexosaminidase
+35969at72274	Complete	contig02488	1	840	+	333.2	208	https://www.orthodb.org/v10?query=35969at72274	tRNA-dihydrouridine(16) synthase
+35998at72274	Complete	contig01706	575	1294	-	304.8	190	https://www.orthodb.org/v10?query=35998at72274	tRNA (guanine-N(7)-)-methyltransferase
+36010at72274	Fragmented	contig01544	1	603	+	275.7	162	https://www.orthodb.org/v10?query=36010at72274	Chromosome partitioning protein
+36138at72274	Missing
+36169at72274	Complete	contig00821	174	1073	-	493.4	262	https://www.orthodb.org/v10?query=36169at72274	Cysteine synthase
+36193at72274	Complete	contig01382	591	1445	+	364.7	237	https://www.orthodb.org/v10?query=36193at72274	Signal peptidase I
+36231at72274	Complete	contig00330	1	735	+	387.8	224	https://www.orthodb.org/v10?query=36231at72274	peptidase S49
+36334at72274	Complete	contig00046	4285	5031	-	305.2	204	https://www.orthodb.org/v10?query=36334at72274	23S rRNA (guanosine-2'-O-)-methyltransferase RlmB
+36354at72274	Complete	contig00364	1443	2222	-	313.6	218	https://www.orthodb.org/v10?query=36354at72274	dihydropteroate synthase
+36598at72274	Complete	contig00488	441	1439	-	282.6	212	https://www.orthodb.org/v10?query=36598at72274	tetraacyldisaccharide 4'-kinase
+36912at72274	Complete	contig01197	575	1378	+	243.8	197	https://www.orthodb.org/v10?query=36912at72274	SAM-dependent methyltransferase
+36951at72274	Complete	contig00829	118	1152	-	505.0	298	https://www.orthodb.org/v10?query=36951at72274	twitching motility protein PilT
+37184at72274	Complete	contig00078	1341	2117	+	326.4	213	https://www.orthodb.org/v10?query=37184at72274	hydrolase TatD
+37220at72274	Complete	contig00167	3218	3994	-	365.3	211	https://www.orthodb.org/v10?query=37220at72274	ferredoxin--NADP(+) reductase
+37262at72274	Missing
+37505at72274	Complete	contig00642	1200	2030	+	343.5	232	https://www.orthodb.org/v10?query=37505at72274	nucleoside triphosphate pyrophosphohydrolase
+37622at72274	Complete	contig00036	83	823	+	468.3	220	https://www.orthodb.org/v10?query=37622at72274	30S ribosomal protein S2
+37822at72274	Complete	contig00121	1437	2429	-	393.6	256	https://www.orthodb.org/v10?query=37822at72274	rod shape-determining protein MreC
+37956at72274	Fragmented	contig01424	3	863	-	342.1	250	https://www.orthodb.org/v10?query=37956at72274	tRNA(Ile)-lysidine synthase
+38061at72274	Fragmented	contig01102	3	515	-	295.8	150	https://www.orthodb.org/v10?query=38061at72274	ribonuclease PH
+38150at72274	Fragmented	contig01015	1	396	+	157.6	116	https://www.orthodb.org/v10?query=38150at72274	cell division protein FtsQ
+38152at72274	Complete	contig01085	549	1355	+	363.0	224	https://www.orthodb.org/v10?query=38152at72274	4-hydroxy-tetrahydrodipicolinate reductase
+38177at72274	Missing
+38372at72274	Complete	contig02205	1	981	+	361.2	276	https://www.orthodb.org/v10?query=38372at72274	ferrochelatase
+38602at72274	Complete	contig00214	246	971	+	428.7	225	https://www.orthodb.org/v10?query=38602at72274	ABC transporter ATP-binding protein
+38752at72274	Complete	contig00454	683	1426	+	343.7	211	https://www.orthodb.org/v10?query=38752at72274	3-oxoacyl-
+38791at72274	Complete	contig00847	1339	2016	+	345.4	188	https://www.orthodb.org/v10?query=38791at72274	NADH dehydrogenase
+38814at72274	Complete	contig00085	3411	4133	+	209.4	171	https://www.orthodb.org/v10?query=38814at72274	UDP-2,3-diacylglucosamine hydrolase
+38872at72274	Complete	contig01143	778	1524	+	311.6	202	https://www.orthodb.org/v10?query=38872at72274	pyridoxine 5'-phosphate synthase
+38984at72274	Complete	contig00036	954	1823	+	315.4	232	https://www.orthodb.org/v10?query=38984at72274	Elongation factor Ts
+39005at72274	Complete	contig00036	3335	4090	+	331.2	201	https://www.orthodb.org/v10?query=39005at72274	di-trans,poly-cis-decaprenylcistransferase
+39435at72274	Complete	contig00331	67	945	+	463.2	263	https://www.orthodb.org/v10?query=39435at72274	4-hydroxy-tetrahydrodipicolinate synthase
+39735at72274	Complete	contig00368	1570	2391	-	289.7	196	https://www.orthodb.org/v10?query=39735at72274	peptidase M48
+39772at72274	Complete	contig00036	2022	2759	+	395.1	212	https://www.orthodb.org/v10?query=39772at72274	Uridylate kinase
+39803at72274	Fragmented	contig02994	36	620	-	185.1	147	https://www.orthodb.org/v10?query=39803at72274	UDP-N-acetylenolpyruvoylglucosamine reductase
+40014at72274	Complete	contig00185	1875	2561	+	391.0	197	https://www.orthodb.org/v10?query=40014at72274	K Homology domain
+40037at72274	Fragmented	contig01975	665	1099	+	110.2	96	https://www.orthodb.org/v10?query=40037at72274	multi-copper polyphenol oxidoreductase
+40069at72274	Complete	contig00232	1308	2066	+	338.6	204	https://www.orthodb.org/v10?query=40069at72274	tRNA (guanine-N(1)-)-methyltransferase
+40168at72274	Complete	contig00400	2540	3214	+	313.8	198	https://www.orthodb.org/v10?query=40168at72274	7-cyano-7-deazaguanine synthase
+40319at72274	Complete	contig02424	90	872	-	267.6	208	https://www.orthodb.org/v10?query=40319at72274	DnaA regulatory inactivator Hda
+40349at72274	Fragmented	contig00827	1729	2235	-	204.9	142	https://www.orthodb.org/v10?query=40349at72274	33 kDa chaperonin
+40542at72274	Complete	contig00355	184	984	-	348.5	221	https://www.orthodb.org/v10?query=40542at72274	3-methyl-2-oxobutanoate hydroxymethyltransferase
+40643at72274	Complete	contig01268	954	1655	+	288.8	194	https://www.orthodb.org/v10?query=40643at72274	16S rRNA (uracil(1498)-N(3))-methyltransferase
+40885at72274	Fragmented	contig02651	1	444	+	175.2	115	https://www.orthodb.org/v10?query=40885at72274	1-(5-phosphoribosyl)-5-
+40937at72274	Complete	contig01317	784	1428	+	225.1	166	https://www.orthodb.org/v10?query=40937at72274	Ribosomal RNA small subunit methyltransferase G
+41068at72274	Fragmented	contig00828	1	699	+	159.5	154	https://www.orthodb.org/v10?query=41068at72274	zinc ABC transporter substrate-binding protein
+41090at72274	Complete	contig01645	267	956	+	309.6	186	https://www.orthodb.org/v10?query=41090at72274	ribonuclease III
+41106at72274	Complete	contig00098	4048	4806	-	311.1	207	https://www.orthodb.org/v10?query=41106at72274	Nif3-like dinuclear metal center hexameric protein
+41129at72274	Fragmented	contig02718	1	294	+	123.5	84	https://www.orthodb.org/v10?query=41129at72274	DNA-binding response regulator
+41159at72274	Complete	contig00348	904	1611	+	207.6	174	https://www.orthodb.org/v10?query=41159at72274	16S rRNA (uracil(1498)-N(3))-methyltransferase
+41161at72274	Complete	contig01391	487	1260	+	325.7	229	https://www.orthodb.org/v10?query=41161at72274	RNA methyltransferase
+41399at72274	Complete	contig00035	2822	3712	+	277.9	192	https://www.orthodb.org/v10?query=41399at72274	segregation/condensation protein A
+41485at72274	Complete	contig00091	358	1053	+	322.0	200	https://www.orthodb.org/v10?query=41485at72274	uracil-DNA glycosylase
+41680at72274	Complete	contig00306	3103	3687	+	343.7	180	https://www.orthodb.org/v10?query=41680at72274	Transport permease protein
+41712at72274	Missing
+41734at72274	Fragmented	contig02630	455	784	-	183.0	101	https://www.orthodb.org/v10?query=41734at72274	Fe/S biogenesis protein NfuA
+41857at72274	Complete	contig00582	671	1363	+	188.7	178	https://www.orthodb.org/v10?query=41857at72274	Pseudouridine synthase
+41972at72274	Complete	contig00187	3012	3755	+	418.9	218	https://www.orthodb.org/v10?query=41972at72274	DNA-binding response regulator
+42252at72274	Complete	contig00269	1655	2329	+	299.8	173	https://www.orthodb.org/v10?query=42252at72274	ribonuclease T
+42437at72274	Missing
+42441at72274	Complete	contig00457	386	1024	+	376.2	185	https://www.orthodb.org/v10?query=42441at72274	endonuclease III
+42468at72274	Complete	contig01432	774	1481	+	242.7	202	https://www.orthodb.org/v10?query=42468at72274	DNA-binding response regulator
+42886at72274	Complete	contig02582	267	803	+	228.7	161	https://www.orthodb.org/v10?query=42886at72274	phosphoglycolate phosphatase
+42895at72274	Fragmented	contig01187	1561	1734	-	62.5	40	https://www.orthodb.org/v10?query=42895at72274	dehydrogenase
+43003at72274	Complete	contig00805	1141	1917	+	251.1	193	https://www.orthodb.org/v10?query=43003at72274	hydroxyacylglutathione hydrolase
+43014at72274	Complete	contig00168	1888	3198	+	408.6	293	https://www.orthodb.org/v10?query=43014at72274	peptidase S41
+43102at72274	Complete	contig00008	3691	4305	-	123.5	167	https://www.orthodb.org/v10?query=43102at72274	Imidazole glycerol phosphate synthase subunit HisH
+43118at72274	Fragmented	contig00454	1	660	+	237.9	168	https://www.orthodb.org/v10?query=43118at72274	malonyl CoA-acyl carrier protein transacylase
+43211at72274	Complete	contig00772	60	806	+	388.2	224	https://www.orthodb.org/v10?query=43211at72274	Transcriptional regulator TACO1-like
+43214at72274	Missing
+43254at72274	Complete	contig00104	4117	4971	+	97.7	185	https://www.orthodb.org/v10?query=43254at72274	shikimate dehydrogenase
+43359at72274	Complete	contig00233	2272	3141	-	441.5	237	https://www.orthodb.org/v10?query=43359at72274	sulfate ABC transporter permease subunit CysW
+43409at72274	Complete	contig01507	460	1311	+	362.9	234	https://www.orthodb.org/v10?query=43409at72274	bis(5'-nucleosyl)-tetraphosphatase (symmetrical)
+43579at72274	Complete	contig00214	3556	4260	+	271.0	191	https://www.orthodb.org/v10?query=43579at72274	RNase adaptor protein RapZ
+43822at72274	Missing
+43883at72274	Missing
+43900at72274	Complete	contig01996	59	676	-	254.7	171	https://www.orthodb.org/v10?query=43900at72274	stringent starvation protein A
+43937at72274	Complete	contig00400	1877	2524	+	292.0	181	https://www.orthodb.org/v10?query=43937at72274	7-carboxy-7-deazaguanine synthase
+44104at72274	Complete	contig01083	488	1123	-	345.6	190	https://www.orthodb.org/v10?query=44104at72274	ATP phosphoribosyltransferase
+44228at72274	Complete	contig00757	532	1152	-	335.9	184	https://www.orthodb.org/v10?query=44228at72274	RNA-binding S4 domain
+44408at72274	Complete	contig00318	1831	2490	-	261.0	177	https://www.orthodb.org/v10?query=44408at72274	riboflavin synthase subunit alpha
+44537at72274	Complete	contig01640	517	1152	+	381.6	193	https://www.orthodb.org/v10?query=44537at72274	50S ribosomal protein L3
+44547at72274	Complete	contig00207	3238	4014	+	290.0	212	https://www.orthodb.org/v10?query=44547at72274	glycerol acyltransferase
+44566at72274	Missing
+44579at72274	Complete	contig01544	613	1413	+	294.9	216	https://www.orthodb.org/v10?query=44579at72274	chromosome partitioning protein ParB
+44589at72274	Complete	contig01982	373	1059	+	243.6	182	https://www.orthodb.org/v10?query=44589at72274	molybdate ABC transporter permease
+44729at72274	Complete	contig01127	532	1149	-	304.1	179	https://www.orthodb.org/v10?query=44729at72274	GTP cyclohydrolase II
+44867at72274	Complete	contig01420	702	1295	+	318.8	161	https://www.orthodb.org/v10?query=44867at72274	imidazoleglycerol-phosphate dehydratase
+45084at72274	Fragmented	contig03031	42	608	+	375.3	182	https://www.orthodb.org/v10?query=45084at72274	Multifunctional CCA protein
+45113at72274	Complete	contig02891	1	663	+	274.7	190	https://www.orthodb.org/v10?query=45113at72274	Type 4 prepilin-like proteins leader peptide-processing enzyme
+45161at72274	Complete	contig00512	762	1403	-	272.7	173	https://www.orthodb.org/v10?query=45161at72274	orotate phosphoribosyltransferase
+45232at72274	Complete	contig00362	27	587	-	270.7	159	https://www.orthodb.org/v10?query=45232at72274	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+45381at72274	Complete	contig00349	1875	2603	+	313.3	195	https://www.orthodb.org/v10?query=45381at72274	phosphate transport system regulatory protein PhoU
+45474at72274	Missing
+45659at72274	Fragmented	contig00890	1755	2132	-	261.0	119	https://www.orthodb.org/v10?query=45659at72274	deoxycytidine triphosphate deaminase
+45682at72274	Complete	contig00928	756	1385	-	189.0	156	https://www.orthodb.org/v10?query=45682at72274	alpha/beta hydrolase
+45692at72274	Complete	contig01018	1236	1943	+	193.9	146	https://www.orthodb.org/v10?query=45692at72274	protein-(glutamine-N5) methyltransferase, release factor-specific
+45745at72274	Complete	contig00362	2448	3092	-	312.4	187	https://www.orthodb.org/v10?query=45745at72274	DNA-binding response regulator
+45787at72274	Complete	contig00604	1363	2331	-	272.2	225	https://www.orthodb.org/v10?query=45787at72274	thiamine-phosphate kinase
+45892at72274	Complete	contig01143	84	785	+	232.1	189	https://www.orthodb.org/v10?query=45892at72274	DNA repair protein RecO
+45939at72274	Missing
+46231at72274	Fragmented	contig02534	1	429	+	185.5	107	https://www.orthodb.org/v10?query=46231at72274	phosphoribosylglycinamide formyltransferase
+46335at72274	Missing
+46337at72274	Complete	contig00297	268	861	+	263.1	167	https://www.orthodb.org/v10?query=46337at72274	non-canonical purine NTP pyrophosphatase
+46364at72274	Complete	contig00218	3349	4041	+	199.8	149	https://www.orthodb.org/v10?query=46364at72274	haloacid dehalogenase
+46440at72274	Complete	contig00925	1099	1695	+	270.6	165	https://www.orthodb.org/v10?query=46440at72274	recombination protein RecR
+46446at72274	Complete	contig00086	640	1350	-	272.3	190	https://www.orthodb.org/v10?query=46446at72274	periplasmic/secreted protein
+46493at72274	Complete	contig00195	832	1689	+	354.3	226	https://www.orthodb.org/v10?query=46493at72274	tRNA pseudouridine synthase A
+46542at72274	Complete	contig00620	1661	2302	+	248.0	196	https://www.orthodb.org/v10?query=46542at72274	nucleoside-diphosphate sugar epimerase
+46636at72274	Complete	contig00024	5259	5807	+	307.4	151	https://www.orthodb.org/v10?query=46636at72274	NADH-quinone oxidoreductase subunit I
+46726at72274	Complete	contig00525	1296	2105	-	264.7	182	https://www.orthodb.org/v10?query=46726at72274	Zinc import ATP-binding protein ZnuC
+46983at72274	Missing
+47074at72274	Complete	contig00742	1129	1683	-	211.1	140	https://www.orthodb.org/v10?query=47074at72274	ADP-ribose pyrophosphatase
+47146at72274	Missing
+47147at72274	Complete	contig01054	308	943	+	223.6	152	https://www.orthodb.org/v10?query=47147at72274	Thiol
+47190at72274	Complete	contig00618	198	1142	-	298.1	260	https://www.orthodb.org/v10?query=47190at72274	aminomethyltransferase
+47243at72274	Fragmented	contig01523	1	480	+	184.6	142	https://www.orthodb.org/v10?query=47243at72274	dephospho-CoA kinase
+47244at72274	Complete	contig01794	336	1022	+	143.0	135	https://www.orthodb.org/v10?query=47244at72274	dethiobiotin synthase
+47302at72274	Complete	contig01125	723	1394	+	343.8	197	https://www.orthodb.org/v10?query=47302at72274	Ribose-5-phosphate isomerase A
+47360at72274	Complete	contig01075	83	757	+	415.6	208	https://www.orthodb.org/v10?query=47360at72274	ribulose-phosphate 3-epimerase
+47481at72274	Complete	contig00195	1779	2414	+	211.1	154	https://www.orthodb.org/v10?query=47481at72274	N-(5'-phosphoribosyl)anthranilate isomerase
+47581at72274	Complete	contig00209	946	1593	+	285.1	170	https://www.orthodb.org/v10?query=47581at72274	YihA family ribosome biogenesis GTP-binding protein
+47659at72274	Missing
+47736at72274	Fragmented	contig03222	100	543	+	170.4	125	https://www.orthodb.org/v10?query=47736at72274	biotin--
+47841at72274	Complete	contig02485	84	758	+	229.8	174	https://www.orthodb.org/v10?query=47841at72274	mannose-1-phosphate guanylyltransferase
+47876at72274	Complete	contig00728	78	725	+	333.4	191	https://www.orthodb.org/v10?query=47876at72274	2-octaprenyl-3-methyl-6-methoxy-1,4-benzoquinol hydroxylase
+47957at72274	Complete	contig01574	505	1251	-	209.1	182	https://www.orthodb.org/v10?query=47957at72274	Type III pantothenate kinase
+48247at72274	Complete	contig00418	1467	2189	+	174.4	173	https://www.orthodb.org/v10?query=48247at72274	glycerophosphodiester phosphodiesterase
+48266at72274	Missing
+48377at72274	Fragmented	contig01410	3	692	-	260.3	180	https://www.orthodb.org/v10?query=48377at72274	metallopeptidase
+48493at72274	Complete	contig00340	130	711	+	308.4	165	https://www.orthodb.org/v10?query=48493at72274	Superoxide dismutase
+48558at72274	Complete	contig00232	765	1301	+	206.5	150	https://www.orthodb.org/v10?query=48558at72274	ribosome maturation factor RimM
+48572at72274	Complete	contig00186	3506	4042	-	169.5	131	https://www.orthodb.org/v10?query=48572at72274	chemotaxis protein CheW
+48596at72274	Complete	contig00936	711	1244	+	295.1	158	https://www.orthodb.org/v10?query=48596at72274	transcription termination/antitermination protein NusG
+48647at72274	Complete	contig00087	3083	3931	+	402.8	246	https://www.orthodb.org/v10?query=48647at72274	rRNA (cytidine-2'-O-)-methyltransferase
+48830at72274	Complete	contig00415	966	1763	+	309.6	214	https://www.orthodb.org/v10?query=48830at72274	hydroxymethylpyrimidine/phosphomethylpyrimidine kinase
+48900at72274	Missing
+48988at72274	Complete	contig01669	31	729	-	360.8	205	https://www.orthodb.org/v10?query=48988at72274	orotidine 5'-phosphate decarboxylase
+48994at72274	Complete	contig00434	2533	3108	-	313.8	166	https://www.orthodb.org/v10?query=48994at72274	ATP-dependent Clp protease proteolytic subunit
+49148at72274	Missing
+49165at72274	Fragmented	contig01533	1032	1421	+	152.0	91	https://www.orthodb.org/v10?query=49165at72274	octanoyltransferase
+49421at72274	Complete	contig00028	6600	7379	-	322.7	204	https://www.orthodb.org/v10?query=49421at72274	peroxide stress protein YaaA
+49622at72274	Fragmented	contig00806	1643	2263	+	233.4	162	https://www.orthodb.org/v10?query=49622at72274	carbon-nitrogen hydrolase
+49700at72274	Fragmented	contig00494	1	498	+	178.1	148	https://www.orthodb.org/v10?query=49700at72274	type IV pilus biogenesis/stability protein PilW
+49942at72274	Complete	contig00488	1876	2511	-	274.1	172	https://www.orthodb.org/v10?query=49942at72274	biopolymer transporter ExbB
+50104at72274	Complete	contig00920	1465	2097	+	193.2	131	https://www.orthodb.org/v10?query=50104at72274	Thymidylate kinase
+50115at72274	Complete	contig02013	58	705	-	376.0	192	https://www.orthodb.org/v10?query=50115at72274	adenylate kinase
+50258at72274	Fragmented	contig00185	4185	4616	+	212.0	116	https://www.orthodb.org/v10?query=50258at72274	Ribosomal protein L5
+50394at72274	Complete	contig00107	835	1422	+	174.0	138	https://www.orthodb.org/v10?query=50394at72274	YecA family protein
+50510at72274	Fragmented	contig03216	3	425	-	163.5	126	https://www.orthodb.org/v10?query=50510at72274	elongation factor P
+50511at72274	Missing
+50679at72274	Complete	contig00171	448	1260	-	257.9	190	https://www.orthodb.org/v10?query=50679at72274	tRNA threonylcarbamoyladenosine dehydratase
+50736at72274	Complete	contig00646	723	1328	-	227.1	161	https://www.orthodb.org/v10?query=50736at72274	arylesterase
+50992at72274	Duplicated	contig00461	318	800	+	260.9	131	https://www.orthodb.org/v10?query=50992at72274	acyl-CoA thioesterase
+50992at72274	Duplicated	contig00966	1413	1913	+	245.9	130	https://www.orthodb.org/v10?query=50992at72274	acyl-CoA thioesterase
+51119at72274	Complete	contig00036	2762	3319	+	253.3	162	https://www.orthodb.org/v10?query=51119at72274	ribosome recycling factor
+51180at72274	Complete	contig00812	978	1511	+	276.4	155	https://www.orthodb.org/v10?query=51180at72274	Ribosomal protein L6
+51269at72274	Complete	contig01287	2	583	-	229.1	173	https://www.orthodb.org/v10?query=51269at72274	thymidylate synthase
+51339at72274	Fragmented	contig01730	3	152	-	71.2	45	https://www.orthodb.org/v10?query=51339at72274	Dihydrofolate reductase
+51367at72274	Missing
+51468at72274	Complete	contig00950	1625	2047	+	220.2	115	https://www.orthodb.org/v10?query=51468at72274	NADH-quinone oxidoreductase subunit E
+51543at72274	Missing
+51559at72274	Fragmented	contig00613	2038	2652	-	178.5	141	https://www.orthodb.org/v10?query=51559at72274	septum formation inhibitor
+51566at72274	Complete	contig01053	200	688	-	216.5	131	https://www.orthodb.org/v10?query=51566at72274	4-hydroxy-4-methyl-2-oxoglutarate aldolase
+51688at72274	Complete	contig00460	1310	1939	+	193.7	158	https://www.orthodb.org/v10?query=51688at72274	2OG-Fe(II) oxygenase
+51903at72274	Complete	contig00910	792	1418	-	205.3	156	https://www.orthodb.org/v10?query=51903at72274	outer membrane lipoprotein carrier protein LolA
+51993at72274	Complete	contig00659	1854	2543	-	221.8	164	https://www.orthodb.org/v10?query=51993at72274	Triosephosphate isomerase
+52094at72274	Complete	contig00415	1774	2403	+	158.7	143	https://www.orthodb.org/v10?query=52094at72274	thiamine phosphate synthase
+52117at72274	Complete	contig00776	1243	1734	-	201.7	126	https://www.orthodb.org/v10?query=52117at72274	Protein-export protein SecB
+52129at72274	Complete	contig00514	146	901	+	143.3	176	https://www.orthodb.org/v10?query=52129at72274	Uroporphyrinogen-III synthase
+52250at72274	Complete	contig01285	1000	1596	-	176.0	143	https://www.orthodb.org/v10?query=52250at72274	16S rRNA methyltransferase
+52275at72274	Missing
+52383at72274	Duplicated	contig00595	1	765	-	71.3	133	https://www.orthodb.org/v10?query=52383at72274	membrane protein
+52383at72274	Duplicated	contig01557	607	1404	+	64.0	133	https://www.orthodb.org/v10?query=52383at72274	membrane protein
+52393at72274	Complete	contig01676	580	1161	+	111.2	113	https://www.orthodb.org/v10?query=52393at72274	Uncharacterised protein family UPF0149
+52435at72274	Complete	contig00142	3924	4541	-	215.0	158	https://www.orthodb.org/v10?query=52435at72274	outer membrane lipoprotein LolB
+52502at72274	Fragmented	contig00085	5647	6120	-	191.3	124	https://www.orthodb.org/v10?query=52502at72274	tRNA hydroxylase
+52540at72274	Complete	contig00085	2909	3406	+	285.0	154	https://www.orthodb.org/v10?query=52540at72274	Peptidyl-prolyl cis-trans isomerase
+52627at72274	Missing
+52674at72274	Complete	contig02662	1	579	+	229.0	147	https://www.orthodb.org/v10?query=52674at72274	N-acetylmuramoyl-L-alanine amidase
+53193at72274	Complete	contig00084	4334	4930	+	175.3	140	https://www.orthodb.org/v10?query=53193at72274	pilus assembly protein PilN
+53330at72274	Complete	contig00819	1208	1705	+	122.7	108	https://www.orthodb.org/v10?query=53330at72274	Q6FA09_ACIAD
+53464at72274	Complete	contig02053	3	527	+	257.4	136	https://www.orthodb.org/v10?query=53464at72274	SsrA-binding protein
+53526at72274	Complete	contig02480	3	812	+	274.2	197	https://www.orthodb.org/v10?query=53526at72274	cytochrome c assembly protein
+53600at72274	Missing
+53683at72274	Complete	contig02560	48	734	-	184.2	151	https://www.orthodb.org/v10?query=53683at72274	esterase
+53888at72274	Complete	contig01090	1182	1859	-	120.1	131	https://www.orthodb.org/v10?query=53888at72274	amidophosphoribosyltransferase
+53890at72274	Missing
+53978at72274	Missing
+54321at72274	Complete	contig01158	504	968	-	248.3	141	https://www.orthodb.org/v10?query=54321at72274	bacterioferritin
+54417at72274	Complete	contig00237	2	388	-	188.2	111	https://www.orthodb.org/v10?query=54417at72274	deoxyuridine 5'-triphosphate nucleotidohydrolase
+54430at72274	Fragmented	contig01320	3	227	+	82.8	59	https://www.orthodb.org/v10?query=54430at72274	Ribosomal-protein-alanine acetyltransferase
+54565at72274	Missing
+54627at72274	Complete	contig00083	4203	4721	+	157.1	137	https://www.orthodb.org/v10?query=54627at72274	PasA protein
+54678at72274	Missing
+54958at72274	Complete	contig00302	2311	2751	+	225.7	131	https://www.orthodb.org/v10?query=54958at72274	beta-hydroxyacyl-ACP dehydratase
+54971at72274	Complete	contig00413	1738	2166	-	267.9	134	https://www.orthodb.org/v10?query=54971at72274	50S ribosomal protein L13
+54986at72274	Complete	contig00525	2105	2608	-	188.1	122	https://www.orthodb.org/v10?query=54986at72274	Ferric uptake regulation protein
+55055at72274	Complete	contig00971	1192	1728	+	272.5	176	https://www.orthodb.org/v10?query=55055at72274	ATP synthase subunit delta
+55267at72274	Complete	contig01550	722	1201	-	259.0	138	https://www.orthodb.org/v10?query=55267at72274	RNA pyrophosphohydrolase
+55277at72274	Complete	contig01075	757	1575	+	258.4	183	https://www.orthodb.org/v10?query=55277at72274	Phosphoglycolate phosphatase
+55431at72274	Fragmented	contig02465	307	852	-	159.1	143	https://www.orthodb.org/v10?query=55431at72274	membrane protein
+55459at72274	Complete	contig00987	1059	1535	+	234.0	139	https://www.orthodb.org/v10?query=55459at72274	transcription elongation factor GreA
+55589at72274	Complete	contig00580	713	1117	-	183.1	108	https://www.orthodb.org/v10?query=55589at72274	Ferric uptake regulation protein
+55613at72274	Fragmented	contig01272	2	565	+	178.2	122	https://www.orthodb.org/v10?query=55613at72274	YaeB-like, N-terminal domain
+55803at72274	Complete	contig00435	2424	3029	-	220.1	148	https://www.orthodb.org/v10?query=55803at72274	ribonuclease HII
+55809at72274	Missing
+55907at72274	Complete	contig00448	2200	2646	+	231.2	124	https://www.orthodb.org/v10?query=55907at72274	RNA polymerase-binding protein DksA
+56040at72274	Complete	contig00318	113	589	-	240.1	131	https://www.orthodb.org/v10?query=56040at72274	6,7-dimethyl-8-ribityllumazine synthase
+56174at72274	Fragmented	contig01702	1	306	+	136.4	79	https://www.orthodb.org/v10?query=56174at72274	pantetheine-phosphate adenylyltransferase
+56209at72274	Fragmented	contig00776	2027	2326	-	151.0	98	https://www.orthodb.org/v10?query=56209at72274	sulfurtransferase
+56372at72274	Complete	contig00397	2457	3035	+	230.6	149	https://www.orthodb.org/v10?query=56372at72274	ATP--cobalamin adenosyltransferase
+56402at72274	Fragmented	contig00812	1876	2256	+	212.2	107	https://www.orthodb.org/v10?query=56402at72274	Ribosomal protein S5
+56413at72274	Complete	contig02003	616	1083	+	160.8	132	https://www.orthodb.org/v10?query=56413at72274	nucleoprotein/polynucleotide-associated enzyme
+56659at72274	Complete	contig02772	313	720	-	158.5	108	https://www.orthodb.org/v10?query=56659at72274	aminoacyl-tRNA deacylase
+56674at72274	Complete	contig00576	136	621	-	236.8	144	https://www.orthodb.org/v10?query=56674at72274	Peptidyl-prolyl cis-trans isomerase
+56721at72274	Complete	contig00772	891	1415	+	268.4	157	https://www.orthodb.org/v10?query=56721at72274	crossover junction endodeoxyribonuclease RuvC
+56852at72274	Complete	contig02155	345	806	-	215.8	150	https://www.orthodb.org/v10?query=56852at72274	Regulatory protein RecX
+56898at72274	Complete	contig00669	1261	1821	-	227.6	145	https://www.orthodb.org/v10?query=56898at72274	Protein GrpE
+56907at72274	Fragmented	contig00011	14355	14726	+	166.9	98	https://www.orthodb.org/v10?query=56907at72274	glutamine amidotransferase
+56946at72274	Complete	contig00829	1367	2059	+	283.5	174	https://www.orthodb.org/v10?query=56946at72274	Pyridoxal phosphate homeostasis protein
+57047at72274	Complete	contig01911	1	966	+	361.0	269	https://www.orthodb.org/v10?query=57047at72274	LPS export ABC transporter permease LptG
+57138at72274	Complete	contig00772	1432	2037	+	260.2	166	https://www.orthodb.org/v10?query=57138at72274	Holliday junction DNA helicase RuvA
+57317at72274	Complete	contig00142	609	1193	-	273.4	164	https://www.orthodb.org/v10?query=57317at72274	Peptidyl-tRNA hydrolase
+57359at72274	Complete	contig00776	723	1184	+	187.4	117	https://www.orthodb.org/v10?query=57359at72274	tRNA (cytosine(34)-2'-O)-methyltransferase TrmL
+57402at72274	Complete	contig02326	361	924	-	253.7	138	https://www.orthodb.org/v10?query=57402at72274	Transcriptional repressor NrdR
+57446at72274	Fragmented	contig02042	789	1067	+	106.4	78	https://www.orthodb.org/v10?query=57446at72274	D-aminoacyl-tRNA deacylase
+57520at72274	Complete	contig00971	710	1180	+	228.7	145	https://www.orthodb.org/v10?query=57520at72274	ATP synthase subunit b
+57551at72274	Complete	contig01208	245	715	-	278.7	141	https://www.orthodb.org/v10?query=57551at72274	30S ribosomal protein S7
+57660at72274	Complete	contig00525	515	1303	-	292.3	228	https://www.orthodb.org/v10?query=57660at72274	membrane protein
+57831at72274	Fragmented	contig00604	2350	2670	-	141.9	87	https://www.orthodb.org/v10?query=57831at72274	Transcription antitermination protein NusB
+58013at72274	Fragmented	contig00173	4205	4732	-	184.6	133	https://www.orthodb.org/v10?query=58013at72274	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase
+58179at72274	Complete	contig00068	4832	5263	+	236.6	127	https://www.orthodb.org/v10?query=58179at72274	Nucleoside diphosphate kinase
+58234at72274	Complete	contig00742	1824	2381	+	285.7	177	https://www.orthodb.org/v10?query=58234at72274	coenzyme A pyrophosphatase
+58334at72274	Complete	contig00580	1215	1745	+	155.5	117	https://www.orthodb.org/v10?query=58334at72274	membrane protein
+58396at72274	Complete	contig00121	249	854	-	186.4	147	https://www.orthodb.org/v10?query=58396at72274	septum formation protein Maf
+58398at72274	Complete	contig00728	1894	2316	-	182.4	108	https://www.orthodb.org/v10?query=58398at72274	peroxiredoxin
+58513at72274	Complete	contig00892	586	987	-	213.6	119	https://www.orthodb.org/v10?query=58513at72274	RNA-binding protein S4
+58743at72274	Missing
+58823at72274	Complete	contig00068	849	1235	+	223.9	110	https://www.orthodb.org/v10?query=58823at72274	Iron-sulfur cluster assembly scaffold protein IscU
+58938at72274	Fragmented	contig01921	757	1134	-	129.6	104	https://www.orthodb.org/v10?query=58938at72274	Ribosome-associated, YjgA
+58942at72274	Fragmented	contig02027	706	1074	-	132.5	100	https://www.orthodb.org/v10?query=58942at72274	YajQ family cyclic di-GMP-binding protein
+59023at72274	Fragmented	contig02347	585	911	+	151.2	90	https://www.orthodb.org/v10?query=59023at72274	HTH-type transcriptional regulator IscR
+59044at72274	Complete	contig00036	4084	4899	+	271.0	216	https://www.orthodb.org/v10?query=59044at72274	phosphatidate cytidylyltransferase
+59210at72274	Missing
+59258at72274	Complete	contig00659	611	1069	-	167.7	120	https://www.orthodb.org/v10?query=59258at72274	Ribosome maturation factor RimP
+59338at72274	Missing
+59408at72274	Complete	contig00936	1361	1792	+	286.9	139	https://www.orthodb.org/v10?query=59408at72274	50S ribosomal protein L11
+59410at72274	Fragmented	contig02324	577	924	+	188.9	108	https://www.orthodb.org/v10?query=59410at72274	50S ribosomal protein L10
+59632at72274	Fragmented	contig00583	2455	2721	+	119.9	71	https://www.orthodb.org/v10?query=59632at72274	response regulator
+59816at72274	Complete	contig00699	679	1368	+	285.7	184	https://www.orthodb.org/v10?query=59816at72274	cytidylate kinase
+59937at72274	Complete	contig01294	964	1320	+	139.0	97	https://www.orthodb.org/v10?query=59937at72274	Ribosomal silencing factor RsfS
+59962at72274	Complete	contig01208	815	1186	-	216.0	101	https://www.orthodb.org/v10?query=59962at72274	30S ribosomal protein S12
+60416at72274	Complete	contig03082	87	590	+	172.3	122	https://www.orthodb.org/v10?query=60416at72274	tRNA-specific adenosine deaminase
+60495at72274	Missing
+60509at72274	Fragmented	contig02425	532	873	-	116.8	82	https://www.orthodb.org/v10?query=60509at72274	membrane protein
+60770at72274	Complete	contig00185	3470	3838	+	210.6	107	https://www.orthodb.org/v10?query=60770at72274	50S ribosomal protein L14
+60801at72274	Complete	contig01553	789	1166	-	105.4	88	https://www.orthodb.org/v10?query=60801at72274	membrane protein
+60882at72274	Fragmented	contig00598	1	327	+	139.1	92	https://www.orthodb.org/v10?query=60882at72274	bacterioferritin
+60956at72274	Complete	contig01536	807	1346	-	230.3	150	https://www.orthodb.org/v10?query=60956at72274	3-deoxy-D-manno-octulosonate 8-phosphate phosphatase
+61128at72274	Complete	contig00478	902	1351	+	214.2	130	https://www.orthodb.org/v10?query=61128at72274	Uncharacterised conserved protein UCP006173
+61140at72274	Complete	contig00186	4093	4458	-	179.9	102	https://www.orthodb.org/v10?query=61140at72274	two-component system response regulator
+61304at72274	Fragmented	contig02672	515	769	+	154.8	80	https://www.orthodb.org/v10?query=61304at72274	50S ribosomal protein L17
+61374at72274	Complete	contig00952	990	1634	+	235.9	189	https://www.orthodb.org/v10?query=61374at72274	GTP-binding protein
+61376at72274	Missing
+61476at72274	Complete	contig00068	4024	4362	+	162.9	99	https://www.orthodb.org/v10?query=61476at72274	ferredoxin, 2Fe-2S type, ISC system
+61625at72274	Complete	contig00330	1490	2026	+	99.9	128	https://www.orthodb.org/v10?query=61625at72274	metal-binding protein
+61712at72274	Missing
+61764at72274	Complete	contig00117	4662	5003	-	152.7	92	https://www.orthodb.org/v10?query=61764at72274	alkylphosphonate utilization protein
+61801at72274	Missing
+61922at72274	Fragmented	contig03047	194	601	-	133.0	108	https://www.orthodb.org/v10?query=61922at72274	amino acid transporter LysE
+62329at72274	Complete	contig01404	198	689	+	266.5	141	https://www.orthodb.org/v10?query=62329at72274	5-(carboxyamino)imidazole ribonucleotide mutase
+62335at72274	Fragmented	contig01982	1	360	+	114.6	102	https://www.orthodb.org/v10?query=62335at72274	molybdate ABC transporter substrate-binding protein
+62383at72274	Complete	contig00441	971	1531	-	174.8	136	https://www.orthodb.org/v10?query=62383at72274	nitroreductase
+62469at72274	Complete	contig00410	1321	1803	+	150.4	101	https://www.orthodb.org/v10?query=62469at72274	Endoribonuclease YbeY
+62565at72274	Complete	contig01186	1318	1656	-	139.0	81	https://www.orthodb.org/v10?query=62565at72274	Ferredoxin
+62599at72274	Complete	contig00044	7215	7610	+	106.6	102	https://www.orthodb.org/v10?query=62599at72274	sulfur transfer complex subunit TusD
+62659at72274	Complete	contig01562	324	674	-	172.2	92	https://www.orthodb.org/v10?query=62659at72274	iron-sulfur cluster insertion protein ErpA
+62709at72274	Complete	contig00343	2135	2830	+	233.6	193	https://www.orthodb.org/v10?query=62709at72274	cell division protein
+62725at72274	Complete	contig00093	5184	5669	-	224.0	136	https://www.orthodb.org/v10?query=62725at72274	glutathione peroxidase
+62753at72274	Complete	contig00400	317	823	+	177.0	113	https://www.orthodb.org/v10?query=62753at72274	peptidoglycan-associated lipoprotein
+62786at72274	Complete	contig00185	2573	2986	+	221.9	122	https://www.orthodb.org/v10?query=62786at72274	50S ribosomal protein L16
+63060at72274	Missing
+63146at72274	Complete	contig00174	1129	1545	-	100.4	92	https://www.orthodb.org/v10?query=63146at72274	dihydroneopterin aldolase
+63163at72274	Complete	contig00046	3651	4070	-	197.7	103	https://www.orthodb.org/v10?query=63163at72274	Ribosomal protein S6
+63231at72274	Complete	contig01132	457	921	+	253.9	141	https://www.orthodb.org/v10?query=63231at72274	translation initiation factor IF-3
+63234at72274	Complete	contig01065	1515	1853	+	146.8	103	https://www.orthodb.org/v10?query=63234at72274	HopJ type III effector protein
+63445at72274	Missing
+63627at72274	Complete	contig02878	165	590	+	204.1	125	https://www.orthodb.org/v10?query=63627at72274	ATP synthase epsilon chain
+63692at72274	Complete	contig02012	128	520	-	165.8	103	https://www.orthodb.org/v10?query=63692at72274	ribosome-binding factor A
+63844at72274	Complete	contig00757	1577	1933	-	191.7	100	https://www.orthodb.org/v10?query=63844at72274	30S ribosomal protein S13
+63845at72274	Complete	contig00232	2108	2458	+	189.1	94	https://www.orthodb.org/v10?query=63845at72274	50S ribosomal protein L19
+63893at72274	Missing
+63986at72274	Complete	contig00812	574	966	+	209.0	114	https://www.orthodb.org/v10?query=63986at72274	30S ribosomal protein S8
+64373at72274	Complete	contig01419	371	838	+	170.9	109	https://www.orthodb.org/v10?query=64373at72274	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+64594at72274	Complete	contig00598	1628	1954	-	166.0	87	https://www.orthodb.org/v10?query=64594at72274	Glutaredoxin
+64732at72274	Complete	contig00355	1234	1722	-	164.2	118	https://www.orthodb.org/v10?query=64732at72274	2-amino-4-hydroxy-6- hydroxymethyldihydropteridine diphosphokinase
+64784at72274	Complete	contig00185	1530	1862	+	183.8	99	https://www.orthodb.org/v10?query=64784at72274	50S ribosomal protein L22
+64785at72274	Complete	contig01640	123	434	+	212.8	99	https://www.orthodb.org/v10?query=64785at72274	Ribosomal protein S10
+64797at72274	Complete	contig00390	531	917	+	132.3	104	https://www.orthodb.org/v10?query=64797at72274	succinate dehydrogenase, cytochrome b556 subunit
+64826at72274	Complete	contig00068	1263	1586	+	153.2	87	https://www.orthodb.org/v10?query=64826at72274	Iron-binding protein IscA
+65058at72274	Complete	contig03036	126	461	+	102.6	83	https://www.orthodb.org/v10?query=65058at72274	Sulfurtransferase
+65064at72274	Complete	contig00390	905	1279	+	159.4	107	https://www.orthodb.org/v10?query=65064at72274	succinate dehydrogenase, hydrophobic membrane anchor protein
+65093at72274	Complete	contig00185	3851	4165	+	154.7	90	https://www.orthodb.org/v10?query=65093at72274	50S ribosomal protein L24
+65138at72274	Complete	contig00812	79	384	+	187.1	98	https://www.orthodb.org/v10?query=65138at72274	30S ribosomal protein S14
+65286at72274	Complete	contig00185	93	392	+	159.6	89	https://www.orthodb.org/v10?query=65286at72274	50S ribosomal protein L23
+65344at72274	Complete	contig00051	3617	3931	-	72.2	74	https://www.orthodb.org/v10?query=65344at72274	SCP2 sterol-binding domain
+65411at72274	Fragmented	contig01276	3	176	-	89.3	48	https://www.orthodb.org/v10?query=65411at72274	Thioredoxin
+65507at72274	Complete	contig00413	1331	1723	-	178.9	110	https://www.orthodb.org/v10?query=65507at72274	30S ribosomal protein S9
+65511at72274	Complete	contig03158	3	296	-	135.8	90	https://www.orthodb.org/v10?query=65511at72274	RNA-binding protein
+65659at72274	Complete	contig00812	1522	1872	+	169.3	95	https://www.orthodb.org/v10?query=65659at72274	50S ribosomal protein L18
+65661at72274	Missing
+65703at72274	Complete	contig02853	121	405	-	110.1	73	https://www.orthodb.org/v10?query=65703at72274	Cell division protein FtsB
+65819at72274	Complete	contig00035	170	469	-	110.5	81	https://www.orthodb.org/v10?query=65819at72274	YCII-related protein
+65878at72274	Complete	contig01063	1049	1357	+	154.6	78	https://www.orthodb.org/v10?query=65878at72274	NAD(P)(+) transhydrogenase
+65897at72274	Fragmented	contig01462	1243	1476	-	118.1	71	https://www.orthodb.org/v10?query=65897at72274	GTP cyclohydrolase 1 type 2/Nif3
+66040at72274	Fragmented	contig00087	885	1130	-	64.3	59	https://www.orthodb.org/v10?query=66040at72274	YraN family protein
+66157at72274	Complete	contig00819	1708	2181	+	167.4	137	https://www.orthodb.org/v10?query=66157at72274	preprotein translocase subunit SecA
+66503at72274	Complete	contig01852	301	639	-	177.8	93	https://www.orthodb.org/v10?query=66503at72274	nitrogen regulatory protein P-II 1
+66618at72274	Complete	contig00185	1242	1517	+	180.7	86	https://www.orthodb.org/v10?query=66618at72274	30S ribosomal protein S19
+66716at72274	Missing
+66793at72274	Complete	contig01546	504	995	-	124.8	122	https://www.orthodb.org/v10?query=66793at72274	Disulfide bond formation protein B
+66805at72274	Complete	contig00046	2017	2463	-	242.6	139	https://www.orthodb.org/v10?query=66805at72274	Ribosomal protein L9
+66956at72274	Fragmented	contig00078	5953	6327	+	138.6	97	https://www.orthodb.org/v10?query=66956at72274	Proteophosphoglycan
+67022at72274	Complete	contig02502	2	517	+	148.6	131	https://www.orthodb.org/v10?query=67022at72274	5-formyltetrahydrofolate cyclo-ligase
+67153at72274	Complete	contig02933	168	461	+	123.6	77	https://www.orthodb.org/v10?query=67153at72274	molecular chaperone GroES
+67256at72274	Complete	contig01180	843	1112	+	155.5	77	https://www.orthodb.org/v10?query=67256at72274	30S ribosomal protein S15
+67346at72274	Complete	contig00482	1438	1710	+	128.5	70	https://www.orthodb.org/v10?query=67346at72274	Fe(2+)-trafficking protein
+67433at72274	Complete	contig00008	19874	20158	-	132.6	75	https://www.orthodb.org/v10?query=67433at72274	integration host factor subunit beta
+67453at72274	Complete	contig01702	427	678	+	154.0	78	https://www.orthodb.org/v10?query=67453at72274	ferredoxin
+67475at72274	Complete	contig01533	751	1032	+	91.8	67	https://www.orthodb.org/v10?query=67475at72274	Uncharacterised protein family UPF0250
+67623at72274	Complete	contig00757	1169	1558	-	222.6	105	https://www.orthodb.org/v10?query=67623at72274	Ribosomal protein S11
+67665at72274	Complete	contig00386	1176	1481	-	113.1	75	https://www.orthodb.org/v10?query=67665at72274	BolA family transcriptional regulator
+67766at72274	Complete	contig01131	1134	1568	-	211.6	131	https://www.orthodb.org/v10?query=67766at72274	50S ribosomal protein L15
+67909at72274	Complete	contig00312	188	526	-	152.0	84	https://www.orthodb.org/v10?query=67909at72274	preprotein translocase subunit YajC
+68051at72274	Complete	contig02708	3	230	-	125.0	66	https://www.orthodb.org/v10?query=68051at72274	Protein of unknown function DUF1315
+68174at72274	Complete	contig01549	833	1135	+	156.6	85	https://www.orthodb.org/v10?query=68174at72274	integration host factor subunit alpha
+68201at72274	Complete	contig00656	1489	1746	-	140.6	76	https://www.orthodb.org/v10?query=68201at72274	50S ribosomal protein L27
+68315at72274	Complete	contig00489	37	405	-	165.1	90	https://www.orthodb.org/v10?query=68315at72274	ATP-dependent Clp protease adaptor ClpS
+68333at72274	Complete	contig02457	230	643	-	150.5	109	https://www.orthodb.org/v10?query=68333at72274	Large-conductance mechanosensitive channel
+68515at72274	Complete	contig00618	1415	1669	+	116.5	68	https://www.orthodb.org/v10?query=68515at72274	Flavinator of succinate dehydrogenase
+68549at72274	Complete	contig00081	5964	6239	+	88.7	60	https://www.orthodb.org/v10?query=68549at72274	DNA-binding protein
+68645at72274	Duplicated	contig00860	387	710	-	102.7	67	https://www.orthodb.org/v10?query=68645at72274	competence protein ComEA
+68645at72274	Duplicated	contig03149	37	366	-	92.0	66	https://www.orthodb.org/v10?query=68645at72274	competence protein ComEA
+68678at72274	Complete	contig00185	3180	3446	+	142.3	71	https://www.orthodb.org/v10?query=68678at72274	30S ribosomal protein S17
+68814at72274	Complete	contig00214	2768	3076	+	107.2	75	https://www.orthodb.org/v10?query=68814at72274	ribosomal subunit interface protein
+68821at72274	Fragmented	contig02558	1	390	+	127.7	79	https://www.orthodb.org/v10?query=68821at72274	Biotin carboxyl carrier protein of acetyl-CoA carboxylase
+69323at72274	Complete	contig01174	1055	1321	-	142.0	65	https://www.orthodb.org/v10?query=69323at72274	DNA-directed RNA polymerase subunit omega
+69648at72274	Complete	contig02317	564	800	+	156.6	69	https://www.orthodb.org/v10?query=69648at72274	50S ribosomal protein L28
+69810at72274	Complete	contig00046	3391	3621	-	151.3	69	https://www.orthodb.org/v10?query=69810at72274	30S ribosomal protein S18
+69845at72274	Complete	contig00490	1538	1885	-	106.6	76	https://www.orthodb.org/v10?query=69845at72274	arsenate reductase
+70159at72274	Complete	contig00384	773	1219	+	158.9	110	https://www.orthodb.org/v10?query=70159at72274	tol-pal system-associated acyl-CoA thioesterase
+70523at72274	Complete	contig02727	129	347	+	153.0	63	https://www.orthodb.org/v10?query=70523at72274	translation initiation factor IF-1
+70568at72274	Complete	contig00428	1683	1961	-	135.2	74	https://www.orthodb.org/v10?query=70568at72274	Fis family transcriptional regulator
+70696at72274	Complete	contig00068	4388	4588	+	60.3	47	https://www.orthodb.org/v10?query=70696at72274	FeS assembly protein IscX
+70800at72274	Complete	contig01132	1201	1557	+	206.4	111	https://www.orthodb.org/v10?query=70800at72274	50S ribosomal protein L20
+70881at72274	Complete	contig00024	6365	6673	+	153.2	90	https://www.orthodb.org/v10?query=70881at72274	NADH-quinone oxidoreductase subunit K
+70960at72274	Complete	contig00678	1898	2326	+	85.0	82	https://www.orthodb.org/v10?query=70960at72274	DNA polymerase III subunit chi
+71312at72274	Complete	contig00083	1025	1399	+	131.8	67	https://www.orthodb.org/v10?query=71312at72274	DUF1653-like domain
+71409at72274	Missing
+71610at72274	Complete	contig00232	507	758	+	133.3	67	https://www.orthodb.org/v10?query=71610at72274	30S ribosomal protein S16
+71747at72274	Complete	contig00654	257	496	-	113.0	59	https://www.orthodb.org/v10?query=71747at72274	BolA family transcriptional regulator
+72111at72274	Complete	contig00121	3786	4076	+	115.6	76	https://www.orthodb.org/v10?query=72111at72274	Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit C
+72145at72274	Complete	contig01523	477	677	+	80.8	36	https://www.orthodb.org/v10?query=72145at72274	DNA gyrase inhibitor YacG
+72526at72274	Complete	contig01131	1572	1748	-	120.6	53	https://www.orthodb.org/v10?query=72526at72274	Ribosomal protein L30, ferredoxin-like fold domain
+72717at72274	Complete	contig00925	694	1020	+	169.5	95	https://www.orthodb.org/v10?query=72717at72274	nucleoid-associated protein
+72941at72274	Complete	contig00902	310	585	-	148.1	78	https://www.orthodb.org/v10?query=72941at72274	30S ribosomal protein S20
+73068at72274	Complete	contig00454	1622	1858	+	133.1	69	https://www.orthodb.org/v10?query=73068at72274	acyl carrier protein
+73124at72274	Complete	contig01132	983	1177	+	123.0	58	https://www.orthodb.org/v10?query=73124at72274	Ribosomal protein L35
+73233at72274	Complete	contig00656	1770	2081	-	169.3	95	https://www.orthodb.org/v10?query=73233at72274	50S ribosomal protein L21
+73565at72274	Fragmented	contig02317	812	931	+	84.6	36	https://www.orthodb.org/v10?query=73565at72274	50S ribosomal protein L33
+73639at72274	Complete	contig02899	268	513	-	115.5	75	https://www.orthodb.org/v10?query=73639at72274	transglycosylase
+74051at72274	Complete	contig00185	2986	3177	+	104.2	52	https://www.orthodb.org/v10?query=74051at72274	50S ribosomal protein L29
+74382at72274	Complete	contig00269	3370	3591	+	106.7	54	https://www.orthodb.org/v10?query=74382at72274	(2Fe-2S)-binding protein
+74488at72274	Complete	contig00580	1813	2118	-	69.0	63	https://www.orthodb.org/v10?query=74488at72274	protein rnfH

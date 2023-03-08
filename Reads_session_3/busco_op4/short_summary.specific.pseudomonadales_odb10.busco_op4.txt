@@ -1,0 +1,30 @@
+# BUSCO version is: 5.4.4 
+# The lineage dataset is: pseudomonadales_odb10 (Creation date: 2020-03-06, number of genomes: 159, number of BUSCOs: 782)
+# Summarized benchmarking in BUSCO notation for file /home/johngn/Microbial-Genomics-Journey-Workshop-2023/Reads_session_3/out_S56/contigs.fa
+# BUSCO was run in mode: prok_genome
+# Gene predictor used: prodigal
+
+	***** Results: *****
+
+	C:62.4%[S:61.9%,D:0.5%],F:19.1%,M:18.5%,n:782	   
+	488	Complete BUSCOs (C)			   
+	484	Complete and single-copy BUSCOs (S)	   
+	4	Complete and duplicated BUSCOs (D)	   
+	149	Fragmented BUSCOs (F)			   
+	145	Missing BUSCOs (M)			   
+	782	Total BUSCO groups searched		   
+
+Assembly Statistics:
+	3305	Number of scaffolds
+	3305	Number of contigs
+	6268157	Total length
+	0.000%	Percent gaps
+	2 KB	Scaffold N50
+	2 KB	Contigs N50
+
+
+Dependencies and versions:
+	hmmsearch: 3.1
+	bbtools: 39.01
+	prodigal: 2.6.3
+	busco: 5.4.4

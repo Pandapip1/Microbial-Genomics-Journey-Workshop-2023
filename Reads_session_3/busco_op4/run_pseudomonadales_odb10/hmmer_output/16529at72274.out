@@ -1,0 +1,18 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+contig03106_1        -            194 16529at72274         -            351  1.4e-102  342.2   1.1   1   1  7.3e-106  1.5e-102  342.1   1.1   123   309     4   191     1   194 0.97 # 1 # 582 # 1 # ID=3106_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.711
+contig01315_3        -            144 16529at72274         -            351   3.1e-30  104.2   0.1   1   1   1.8e-33   3.7e-30  104.0   0.1     1   113     3   144     3   144 0.84 # 1178 # 1609 # 1 # ID=1315_3;partial=01;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.734
+contig02260_1        -            318 16529at72274         -            351   1.9e-20   72.0   0.4   1   2   2.1e-13   4.5e-10   37.9   0.0    28    89    31    99    12   114 0.76 # 2 # 955 # 1 # ID=2260_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.676
+contig02260_1        -            318 16529at72274         -            351   1.9e-20   72.0   0.4   2   2   1.1e-11   2.2e-08   32.4   0.2   183   279   217   313   201   318 0.90 # 2 # 955 # 1 # ID=2260_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.676
+contig00594_2        -            480 16529at72274         -            351   7.8e-07   27.3   0.0   1   1   5.1e-10   1.1e-06   26.8   0.0   169   276   215   326   186   380 0.83 # 1088 # 2527 # 1 # ID=594_2;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.687
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /home/johngn/Microbial-Genomics-Journey-Workshop-2023/Reads_session_3/busco_downloads/lineages/pseudomonadales_odb10/hmms/16529at72274.hmm
+# Target file:     /home/johngn/Microbial-Genomics-Journey-Workshop-2023/Reads_session_3/busco_op4/prodigal_output/predicted_genes/predicted.faa
+# Option settings: hmmsearch --domtblout /home/johngn/Microbial-Genomics-Journey-Workshop-2023/Reads_session_3/busco_op4/run_pseudomonadales_odb10/hmmer_output/16529at72274.out --cpu 1 /home/johngn/Microbial-Genomics-Journey-Workshop-2023/Reads_session_3/busco_downloads/lineages/pseudomonadales_odb10/hmms/16529at72274.hmm /home/johngn/Microbial-Genomics-Journey-Workshop-2023/Reads_session_3/busco_op4/prodigal_output/predicted_genes/predicted.faa 
+# Current dir:     /home/johngn/Microbial-Genomics-Journey-Workshop-2023/Reads_session_3
+# Date:            Wed Mar  8 17:01:08 2023
+# [ok]

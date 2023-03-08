@@ -1,0 +1,61 @@
+{
+    "parameters": {
+        "out_path": "/home/johngn/Microbial-Genomics-Journey-Workshop-2023/Reads_session_3",
+        "cpu": "1",
+        "force": "True",
+        "restart": "False",
+        "quiet": "False",
+        "download_path": "/home/johngn/Microbial-Genomics-Journey-Workshop-2023/Reads_session_3/busco_downloads",
+        "datasets_version": "odb10",
+        "offline": "False",
+        "download_base_url": "https://busco-data.ezlab.org/v5/data/",
+        "auto-lineage": "False",
+        "auto-lineage-prok": "False",
+        "auto-lineage-euk": "False",
+        "update-data": "False",
+        "use_augustus": "False",
+        "batch_mode": "False",
+        "tar": "False",
+        "in": "/home/johngn/Microbial-Genomics-Journey-Workshop-2023/Reads_session_3/out_S56/contigs.fa",
+        "out": "busco_op4",
+        "mode": "prok_genome",
+        "lineage_dataset": "/home/johngn/Microbial-Genomics-Journey-Workshop-2023/Reads_session_3/busco_downloads/lineages/pseudomonadales_odb10",
+        "main_out": "/home/johngn/Microbial-Genomics-Journey-Workshop-2023/Reads_session_3/busco_op4",
+        "lineage_results_dir": "run_pseudomonadales_odb10",
+        "domain": "prokaryota",
+        "prodigal_genetic_code": "11",
+        "ambiguous_cd_range_lower": "0.73",
+        "ambiguous_cd_range_upper": "0.8",
+        "contig_break": "10",
+        "scaffold_composition": "False",
+        "gene_predictor": "prodigal"
+    },
+    "lineage_dataset": {
+        "name": "pseudomonadales_odb10",
+        "creation_date": "2020-03-06",
+        "number_of_buscos": "782",
+        "number_of_species": "159"
+    },
+    "versions": {
+        "hmmsearch": 3.1,
+        "bbtools": "39.01",
+        "prodigal": "2.6.3",
+        "busco": "5.4.4"
+    },
+    "results": {
+        "one_line_summary": "C:62.4%[S:61.9%,D:0.5%],F:19.1%,M:18.5%,n:782",
+        "Complete": 62.4,
+        "Single copy": 61.9,
+        "Multi copy": 0.5,
+        "Fragmented": 19.1,
+        "Missing": 18.5,
+        "n_markers": 782,
+        "domain": "prokaryota",
+        "Number of scaffolds": "3305",
+        "Number of contigs": "3305",
+        "Total length": "6268157",
+        "Percent gaps": "0.000%",
+        "Scaffold N50": "2433",
+        "Contigs N50": "2433"
+    }
+}

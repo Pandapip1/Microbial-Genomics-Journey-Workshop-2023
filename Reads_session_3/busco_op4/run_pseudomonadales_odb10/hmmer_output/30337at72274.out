@@ -1,0 +1,22 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+contig00455_3        -            320 30337at72274         -            247  3.3e-128  425.2   9.3   1   1  2.7e-130  4.6e-127  421.5   9.3     1   246    29   315    29   316 0.93 # 1567 # 2526 # -1 # ID=455_3;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.649
+contig01690_2        -            253 30337at72274         -            247   1.9e-07   29.7   0.1   1   2   5.4e-09   9.1e-06   24.2   0.1    90   129   101   140    72   151 0.83 # 295 # 1053 # 1 # ID=1690_2;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.684
+contig01690_2        -            253 30337at72274         -            247   1.9e-07   29.7   0.1   2   2     0.013        23    3.2   0.0   183   247   179   245   169   245 0.72 # 295 # 1053 # 1 # ID=1690_2;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.684
+contig00544_3        -            515 30337at72274         -            247   1.8e-06   26.5   0.7   1   3       0.8   1.3e+03   -2.6   0.0   175   193   189   209   186   229 0.71 # 882 # 2426 # 1 # ID=544_3;partial=00;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.715
+contig00544_3        -            515 30337at72274         -            247   1.8e-06   26.5   0.7   2   3    0.0013       2.3    6.5   0.0   103   129   284   310   278   328 0.86 # 882 # 2426 # 1 # ID=544_3;partial=00;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.715
+contig00544_3        -            515 30337at72274         -            247   1.8e-06   26.5   0.7   3   3   7.8e-07    0.0013   17.1   0.2   187   219   362   394   347   410 0.87 # 882 # 2426 # 1 # ID=544_3;partial=00;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.715
+contig01496_1        -            341 30337at72274         -            247   0.00066   18.1   0.1   1   1   5.5e-06    0.0092   14.3   0.1    83   244    93   247    63   250 0.71 # 3 # 1025 # -1 # ID=1496_1;partial=10;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.672
+contig02356_1        -            301 30337at72274         -            247    0.0028   16.0   0.0   1   2   3.8e-05     0.064   11.6   0.0    64   127    28    87    16    96 0.73 # 1 # 903 # 1 # ID=2356_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.657
+contig02356_1        -            301 30337at72274         -            247    0.0028   16.0   0.0   2   2     0.027        45    2.3   0.0   181   220   122   166   107   204 0.76 # 1 # 903 # 1 # ID=2356_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.657
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /home/johngn/Microbial-Genomics-Journey-Workshop-2023/Reads_session_3/busco_downloads/lineages/pseudomonadales_odb10/hmms/30337at72274.hmm
+# Target file:     /home/johngn/Microbial-Genomics-Journey-Workshop-2023/Reads_session_3/busco_op4/prodigal_output/predicted_genes/predicted.faa
+# Option settings: hmmsearch --domtblout /home/johngn/Microbial-Genomics-Journey-Workshop-2023/Reads_session_3/busco_op4/run_pseudomonadales_odb10/hmmer_output/30337at72274.out --cpu 1 /home/johngn/Microbial-Genomics-Journey-Workshop-2023/Reads_session_3/busco_downloads/lineages/pseudomonadales_odb10/hmms/30337at72274.hmm /home/johngn/Microbial-Genomics-Journey-Workshop-2023/Reads_session_3/busco_op4/prodigal_output/predicted_genes/predicted.faa 
+# Current dir:     /home/johngn/Microbial-Genomics-Journey-Workshop-2023/Reads_session_3
+# Date:            Wed Mar  8 17:01:21 2023
+# [ok]

@@ -1,0 +1,190 @@
+# hmmsearch :: search profile(s) against a sequence database
+# HMMER 3.1b2 (February 2015); http://hmmer.org/
+# Copyright (C) 2015 Howard Hughes Medical Institute.
+# Freely distributed under the GNU General Public License (GPLv3).
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# query HMM file:                  /home/johngn/Microbial-Genomics-Journey-Workshop-2023/Reads_session_3/busco_downloads/lineages/pseudomonadales_odb10/hmms/9960at72274.hmm
+# target sequence database:        /home/johngn/Microbial-Genomics-Journey-Workshop-2023/Reads_session_3/busco_op4/prodigal_output/predicted_genes/predicted.faa
+# per-dom hits tabular output:     /home/johngn/Microbial-Genomics-Journey-Workshop-2023/Reads_session_3/busco_op4/run_pseudomonadales_odb10/hmmer_output/9960at72274.out
+# number of worker threads:        1
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Query:       9960at72274  [M=244]
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence       Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------       -----------
+      7e-81  270.0   3.8    1.7e-79  265.5   3.8    2.0  1  contig00800_1   # 1 # 786 # 1 # ID=800_1;partial=10;start_typ
+    1.1e-23   82.7   0.1    1.5e-23   82.3   0.1    1.1  1  contig02179_1   # 1 # 990 # 1 # ID=2179_1;partial=11;start_ty
+      6e-17   60.7   0.0    7.6e-17   60.3   0.0    1.1  1  contig00981_1   # 3 # 404 # -1 # ID=981_1;partial=10;start_ty
+    4.1e-13   48.1   0.0    6.1e-13   47.5   0.0    1.1  1  contig00015_6   # 2867 # 3649 # -1 # ID=15_6;partial=00;start
+    4.2e-10   38.3   0.5    9.2e-10   37.1   0.5    1.5  1  contig00408_3   # 365 # 994 # 1 # ID=408_3;partial=00;start_t
+      3e-09   35.5   0.5    6.3e-09   34.4   0.5    1.5  1  contig00038_1   # 3 # 506 # -1 # ID=38_1;partial=10;start_typ
+    0.00013   20.2   0.1    0.00079   17.7   0.0    2.0  2  contig00034_7   # 7335 # 8999 # 1 # ID=34_7;partial=01;start_
+  ------ inclusion threshold ------
+      0.026   12.8   0.0      0.037   12.2   0.0    1.2  1  contig00008_18  # 16975 # 17955 # -1 # ID=8_18;partial=00;sta
+       0.08   11.1   0.0       0.12   10.6   0.0    1.3  1  contig00949_2   # 471 # 1277 # -1 # ID=949_2;partial=00;start
+
+
+Domain annotation for each sequence (and alignments):
+>> contig00800_1  # 1 # 786 # 1 # ID=800_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.653
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  265.5   3.8   1.9e-82   1.7e-79      58     244 .]      13     229 ..       8     229 .. 0.85
+
+  Alignments for each domain:
+  == domain 1  score: 265.5 bits;  conditional E-value: 1.9e-82
+    9960at72274  58 atlvnefldkskkngtlqrlae.fYgrv........ktfakelqqrlPkykksfkkaakkekldWrllaaigyqesllkpeavsktGvrGlmmLtq 144
+                     + vn+fld++kk+g lqrl++ +Yg+v        +tfa++lqqrlP+y+++fk+++k+ ++dWrllaaigyqesl++p a+sktGvrGlmmLt+
+  contig00800_1  13 MNEVNAFLDQAKKEGLLQRLKDrYYGHVdvlgyvgaYTFAQHLQQRLPRYESHFKQSGKQLDTDWRLLAAIGYQESLWQPGATSKTGVRGLMMLTN 108
+                    6789***********************74444444468********************************************************** PP
+
+    9960at72274 145 ntakamGvsnRldpkqsiqGGakYl.elkeel....eepdrtWfalaaYnvGpgaledirkllkkegkdpnkWldvkk...rlkqk.......... 222
+                    +ta+amGvsnRldpkqsiqGG+kY+ ++++el    +epdr WfalaaYn+G ++led+rk+++keg++pnkWldvkk   rl+qk          
+  contig00800_1 109 RTAQAMGVSNRLDPKQSIQGGSKYFvQIRSELpesiKEPDRSWFALAAYNIGGAHLEDARKMAEKEGLNPNKWLDVKKmlpRLAQKqwyaktrygy 204
+                    ************************95466554422389**************************************98333233332222222333 PP
+
+    9960at72274 223 ...keavhyvtniRryleilktvtq 244
+                       +e+vh+v+n+Rry++il++vtq
+  contig00800_1 205 argGETVHFVQNVRRYYDILTWVTQ 229
+                    33369*****************986 PP
+
+>> contig02179_1  # 1 # 990 # 1 # ID=2179_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.703
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   82.3   0.1   1.6e-26   1.5e-23      59     208 ..     169     330 .]     155     330 .] 0.80
+
+  Alignments for each domain:
+  == domain 1  score: 82.3 bits;  conditional E-value: 1.6e-26
+    9960at72274  59 tlvnefldksk....kngtlqrlae.fYgrvktfakelqqrlPkykksfkkaakkekldWrllaaigyqesllkpeavsktGvrGlmmLtqntaka 149
+                    +++++fl++ +    ++ + qr+ +  Y+  + +  + ++rl   +  ++++a++ ++dW  laa++y+es+l+p+a    G  Glm +t + a++
+  contig02179_1 169 ATIDRFLADYRapadQDVAFQRVYRrAYKVRNPLGAADRKRLEAVRPLLQRYARQSSMDWLALAAVAYKESHLNPKARGSGGASGLMQITPAAARS 264
+                    4566666665510004444455444444444555555589******************************************************** PP
+
+    9960at72274 150 mGvsnRldpkqsiqGGakYle.lkeel......eepdrtWfalaaYnvGpgaledirkllkkegkd 208
+                    +Gv n  d    +   ++Yl+ +++++      +e +r  f+laaYn+Gp+ ++++r++++++g+d
+  contig02179_1 265 VGVGNVHDKDSNVLAASRYLTkIRKQFfsskhlDERERLAFTLAAYNMGPERVQNLRTQARRRGLD 330
+                    *******************953665533211127889************************99986 PP
+
+>> contig00981_1  # 3 # 404 # -1 # ID=981_1;partial=10;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.674
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   60.3   0.0   8.1e-20   7.6e-17       2      54 ..      36      91 ..      35     100 .. 0.89
+
+  Alignments for each domain:
+  == domain 1  score: 60.3 bits;  conditional E-value: 8.1e-20
+    9960at72274  2 lervkeegvlrvvtvnspatyfqdrn...Gfeydlvkryadelgvkleiktvdnae 54
+                   lerv++egvlrv+t+nspatyfqdrn   Gfey+l+kr+a++lgv+l+i+t+dn +
+  contig00981_1 36 LERVQKEGVLRVITRNSPATYFQDRNgetGFEYELAKRFAERLGVELKIETADNLD 91
+                   89**********************974446***********************975 PP
+
+>> contig00015_6  # 2867 # 3649 # -1 # ID=15_6;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   47.5   0.0   6.6e-16   6.1e-13      92     197 ..     128     231 ..     121     235 .. 0.89
+
+  Alignments for each domain:
+  == domain 1  score: 47.5 bits;  conditional E-value: 6.6e-16
+    9960at72274  92 qqrlPkykksfkkaakkekldWrllaaigyqesllkpeavsktGvrGlmmLtqntakamGvsnRldpkqsiqGGakYlelkeel.eepdrtWfala 186
+                      +   y + ++++a++ ++   l++ + + es ++p+avs+ G +Glm L ++ ++ +Gv +  dp+  i+GG+k+l+    + +      +a+a
+  contig00015_6 128 AAKAAPYARLIQRYAHQVRMSPTLVTLMIHEESRFNPTAVSPKGAKGLMQLMDAVSEELGV-DPFDPESNIRGGTKHLARL--YrAFGGNLKLAIA 220
+                    56666799999*************************************************9.579***********98744..3345667789*** PP
+
+    9960at72274 187 aYnvGpgaled 197
+                    aYn G ga+++
+  contig00015_6 221 AYNAGEGAVRK 231
+                    ********976 PP
+
+>> contig00408_3  # 365 # 994 # 1 # ID=408_3;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.670
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   37.1   0.5   9.9e-13   9.2e-10      93     231 ..      23     180 ..      19     190 .. 0.77
+
+  Alignments for each domain:
+  == domain 1  score: 37.1 bits;  conditional E-value: 9.9e-13
+    9960at72274  93 qrlPkykksfkka.akkekldWrl......laaigyqesllkpeavsktGvrGlmmLtqntak........amGvsnRldpkqsiqGGakY...le 170
+                    +r+P+  ++++++  ++ + +W l      +aa  +qes ++++a s+ G +Gl      ta+        a+G ++  +p  +++    Y   l 
+  contig00408_3  23 DRIPTAAEQYRRTlVRSAHAEWGLsapiatFAAQVHQESRWRADARSPVGAQGLAQFMPGTAEwiaglypaALGTNQPFNPGWALRALVTYdrwLY 118
+                    577777777766524566678887222222455569******************999999996444444447899999999888887776644333 PP
+
+    9960at72274 171 lkeel.eepdrtWfalaaYnvGpgaledirkllkkegkdpnkWldvkkrlkqkkeavhyvtn 231
+                     +++  +e dr  f+l aYn G+g +++ r+l++++g d+  W d  +r ++ + a ++ +n
+  contig00408_3 119 DRNQAsSECDRWAFVLSAYNGGQGWVNRDRRLASASGADQLAWFDSVERFNAGRSAANFREN 180
+                    34444499*************************************99999999999888665 PP
+
+>> contig00038_1  # 3 # 506 # -1 # ID=38_1;partial=10;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.681
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   34.4   0.5   6.7e-12   6.3e-09      93     215 ..      23     164 ..      17     168 .] 0.77
+
+  Alignments for each domain:
+  == domain 1  score: 34.4 bits;  conditional E-value: 6.7e-12
+    9960at72274  93 qrlPkykksfkka.akkekldWrllaaig......yqesllkpeavsktGvrGlmmLtqntak........amGvsnRldpkqsiqGGakY...le 170
+                    +r+P+  ++++++  ++ + +W l a i+      +qes ++++a s+ G +Gl      ta+        a+G ++  +p  +++    Y   l 
+  contig00038_1  23 DRIPTAAEQYRRTlVRSAHAEWGLTAPIAtfaaqvHQESRWRADARSPVGAQGLAQFMPGTAEwiaglypaALGTNQPFNPGWALRALVTYdrwLY 118
+                    678887777776525666778988665533223338******************999999996444444447899999999888887776644333 PP
+
+    9960at72274 171 lkeel.eepdrtWfalaaYnvGpgaledirkllkkegkdpnkWldv 215
+                     +++  +e dr  f+l aYn G+g +++ r+l++++  dp  W d 
+  contig00038_1 119 DRNQAsSECDRWAFVLSAYNGGQGWVNRDRRLASASSADPLAWFDS 164
+                    34444499***********************************985 PP
+
+>> contig00034_7  # 7335 # 8999 # 1 # ID=34_7;partial=01;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?   -0.6   0.0      0.33   3.1e+02      76      98 ..     184     207 ..     175     212 .. 0.76
+   2 !   17.7   0.0   8.4e-07   0.00079      89     149 ..     468     529 ..     457     535 .. 0.89
+
+  Alignments for each domain:
+  == domain 1  score: -0.6 bits;  conditional E-value: 0.33
+    9960at72274  76 rlae.fYgrvktfakelqqrlPky 98 
+                    rl+     r++++a +l qrlP+ 
+  contig00034_7 184 RLKLaAEARNYSLASHLAQRLPTL 207
+                    55544457899***********75 PP
+
+  == domain 2  score: 17.7 bits;  conditional E-value: 8.4e-07
+    9960at72274  89 kelqqrlPk.ykksfkkaakkekldWrllaaigyqesllkpeavsktGvrGlmmLtqntaka 149
+                    ++l+ r+P  +++++ ++ak++ l    + ai+ qes + ++a s  G  Glm L   tak 
+  contig00034_7 468 DDLDIRFPMaHRATLVREAKNRGLHSSWIFAITRQESAFMSDARSGVGATGLMQLMPGTAKE 529
+                    57788888536788999******************************************986 PP
+
+>> contig00008_18  # 16975 # 17955 # -1 # ID=8_18;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.4
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?   12.2   0.0     4e-05     0.037     103     175 ..      66     138 ..      59     156 .. 0.85
+
+  Alignments for each domain:
+  == domain 1  score: 12.2 bits;  conditional E-value: 4e-05
+     9960at72274 103 kkaakkekldWrllaaigyqesllkpeavsktGvrGlmmLtqntakamGvsnRldpkqs.iqGGakYlelkeel 175
+                     kk +k+ ++ ++l a i+   s++ p++  +t v+G++ + q+ a   Gv+  ++++ s + G a+Y+ + e+ 
+  contig00008_18  66 KKITKDVDVVFHLAALIAIPYSYVAPDSYLETNVKGVINICQA-ALENGVQRVVHTSTSeVYGTAQYVPIDEKH 138
+                     56778889999**99999999*****************99875.7788***99998877589******998876 PP
+
+>> contig00949_2  # 471 # 1277 # -1 # ID=949_2;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.657
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?   10.6   0.0   0.00013      0.12       2      55 ..      30      88 ..      29     118 .. 0.77
+
+  Alignments for each domain:
+  == domain 1  score: 10.6 bits;  conditional E-value: 0.00013
+    9960at72274  2 lervkeegvlrvvtvns..patyfqdrn...Gfeydlvkryadelgvkleiktvdnael 55
+                   l+r+ e+gvlrv+t+ +  p  y +++    Gf+ d+++r a++lg kl +  ++ ++l
+  contig00949_2 30 LDRILESGVLRVATTGDykPFSYRTEEGgyaGFDVDMAQRLAESLGTKLVVVPTSWPNL 88
+                   78999*******9986522555555553233799***************9887776666 PP
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                              1  (244 nodes)
+Target sequences:                         8426  (1867936 residues searched)
+Passed MSV filter:                       160  (0.0189888); expected 168.5 (0.02)
+Passed bias filter:                      136  (0.0161405); expected 168.5 (0.02)
+Passed Vit filter:                        18  (0.00213624); expected 8.4 (0.001)
+Passed Fwd filter:                         9  (0.00106812); expected 0.1 (1e-05)
+Initial search space (Z):               8426  [actual number of targets]
+Domain search space  (domZ):               9  [number of targets reported over threshold]
+# CPU time: 0.04u 0.00s 00:00:00.04 Elapsed: 00:00:00.04
+# Mc/sec: 11394.41
+//
+[ok]

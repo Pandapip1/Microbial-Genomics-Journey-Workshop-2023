@@ -1,0 +1,27 @@
+[17:35:10] This is prokka 1.13
+[17:35:10] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[17:35:10] Homepage is https://github.com/tseemann/prokka
+[17:35:10] Local time is Wed Mar  8 17:35:10 2023
+[17:35:10] You are johngn
+[17:35:10] Operating system is linux
+[17:35:10] You have BioPerl 1.007002
+[17:35:10] System has 4 cores.
+[17:35:10] Option --cpu asked for 8 cores, but system only has 4
+[17:35:10] Will use maximum of 4 cores.
+[17:35:10] Annotating as >>> Bacteria <<<
+[17:35:10] Generating locus_tag from 'contigs.fa' contents.
+[17:35:10] Setting --locustag CONDAMHP from MD5 c87da619cdffc16a89957b9ba8de0a46
+[17:35:10] Creating new output folder: PROKKA_03082023
+[17:35:10] Running: mkdir -p PROKKA_03082023
+[17:35:11] Using filename prefix: PROKKA_03082023.XXX
+[17:35:11] Setting HMMER_NCPU=1
+[17:35:11] Writing log to: PROKKA_03082023/PROKKA_03082023.log
+[17:35:11] Command: /home/johngn/miniconda3/envs/prokka/bin/prokka contigs.fa
+[17:35:11] Appending to PATH: /home/johngn/miniconda3/envs/prokka/bin
+[17:35:11] Looking for 'aragorn' - found /home/johngn/miniconda3/envs/prokka/bin/aragorn
+[17:35:11] Determined aragorn version is 1.2
+[17:35:11] Looking for 'barrnap' - found /home/johngn/miniconda3/envs/prokka/bin/barrnap
+[17:35:11] Determined barrnap version is 0.9
+[17:35:11] Looking for 'blastp' - found /home/johngn/miniconda3/envs/prokka/bin/blastp
+[17:35:11] Determined blastp version is 2.10
+[17:35:11] Prokka needs blastp 2.2 or higher. Please upgrade and try again.
