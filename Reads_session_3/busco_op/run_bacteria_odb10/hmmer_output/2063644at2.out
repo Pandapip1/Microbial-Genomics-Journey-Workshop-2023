@@ -11,5 +11,5 @@ contig00185_8        -             64 2063644at2           -             40     
 # Target file:     /home/johngn/Microbial-Genomics-Journey-Workshop-2023/Reads_session_3/busco_op/prodigal_output/predicted_genes/predicted.faa
 # Option settings: hmmsearch --domtblout /home/johngn/Microbial-Genomics-Journey-Workshop-2023/Reads_session_3/busco_op/run_bacteria_odb10/hmmer_output/2063644at2.out --cpu 1 /home/johngn/Microbial-Genomics-Journey-Workshop-2023/Reads_session_3/busco_downloads/lineages/bacteria_odb10/hmms/2063644at2.hmm /home/johngn/Microbial-Genomics-Journey-Workshop-2023/Reads_session_3/busco_op/prodigal_output/predicted_genes/predicted.faa 
 # Current dir:     /home/johngn/Microbial-Genomics-Journey-Workshop-2023/Reads_session_3
-# Date:            Wed Mar  1 18:11:36 2023
+# Date:            Wed Mar  8 16:55:37 2023
 # [ok]

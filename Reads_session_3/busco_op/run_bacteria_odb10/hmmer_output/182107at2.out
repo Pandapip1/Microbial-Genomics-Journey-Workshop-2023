@@ -28,5 +28,5 @@ contig02768_1        -            221 182107at2            -            492    0
 # Target file:     /home/johngn/Microbial-Genomics-Journey-Workshop-2023/Reads_session_3/busco_op/prodigal_output/predicted_genes/predicted.faa
 # Option settings: hmmsearch --domtblout /home/johngn/Microbial-Genomics-Journey-Workshop-2023/Reads_session_3/busco_op/run_bacteria_odb10/hmmer_output/182107at2.out --cpu 1 /home/johngn/Microbial-Genomics-Journey-Workshop-2023/Reads_session_3/busco_downloads/lineages/bacteria_odb10/hmms/182107at2.hmm /home/johngn/Microbial-Genomics-Journey-Workshop-2023/Reads_session_3/busco_op/prodigal_output/predicted_genes/predicted.faa 
 # Current dir:     /home/johngn/Microbial-Genomics-Journey-Workshop-2023/Reads_session_3
-# Date:            Wed Mar  1 18:11:35 2023
+# Date:            Wed Mar  8 16:55:36 2023
 # [ok]

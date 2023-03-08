@@ -37,6 +37,9 @@ You will find quast_results folder and in there you will find the latest folder,
 
 * What is the L50 and L90 for genome4.fasta from problem_set1?
 
+L50 is 663.
+L90 is not shown for some reason.
+
 ## busco
 [Busco by Erin Theiller](BUSCO.md)
 
