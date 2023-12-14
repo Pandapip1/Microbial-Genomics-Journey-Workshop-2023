@@ -8,6 +8,9 @@ Daniel P. Morreale (Dan)<br/>
 Qianxuan She (Sean)<br/>
 Erin Marie Theiller (Erin)<br/>
 
+## Recordings
+**All sessions were recorded and they are available on** [YouTube](https://www.youtube.com/playlist?list=PLflzkSbbJ6yGWQETl5X0LDNLqi7K50WNQ).<br/>
+
 ## Syllabus
 * [Why is it important to learn microbial genomics?](Unix_intro.md/#why-is-it-important-to-learn-microbial-genomics)
 * [Aim](Unix_intro.md/#aim)
@@ -100,20 +103,24 @@ Erin Marie Theiller (Erin)<br/>
   * [Recombination Detection](kmer.md/#recombination)
     * [ClonalFrameML](kmer.md/#clonalframeml)
   * [Further Readings](kmer.md/#further-readings)
+* [Problem Set 9](Problem_Set9.md)
 * [Session 10: Phylogenetics](phylo.md)
   * [Lecture by Dr. Paul Planet](pjp-phylo.pdf)
-  * [RAxML](phylo.md/#raxml)
-  * [iqtree](phylo.md/#iqtree)
-  * [BEAST](phylo.md/#beast)
+  * [iqtree](phylo.md/#iq-tree)
   * [Cladebreaker](phylo.md/#cladebreaker)
   * [Further Readings](phylo.md/#further-readings)
-* [Session 11: Outbreak investigation](outbreak.md)
-  * [Staph aureus](outbreak.md/#staph-aureus)
-  * [Further Readings](outbreak.md/#further-readings)
-* [Session 12: Workflows! What is next?](workflows.md)
-  * [Nextflow](workflows.md/#classes)
-  * [Snakemake](workflows.md/#link-to-python-11-problem-set)
-  * [ChatGPT](workflows.md/#link-to-python-11-problem-set)
-  * [Programming for Biology](workflows.md/#link-to-python-11-problem-set)
+* [Problem Set 10](Problem_Set10.md)
+* [Session 11: Workflows! What is next?](workflows.md)
+  * [Feedback](workflows.md/#teaching-evaluations)
   * [Updated Knowledge Map](workflows.md/#updated-knowledge-map)
+  * [NCBI datasets](workflows.md/#ncbi-datasets)
+  * [Nextflow](workflows.md/#nextflow)
+  * [Snakemake](workflows.md/#snakemake)
+  * [ChatGPT](workflows.md/#chatgpt)
+  * [Programming for Biology](workflows.md/pfb)
   * [Further Readings](workflows.md/#further-readings)
+* [Session 12: Graduation Project](grad.md)
+  * [Description](grad.md/#description)
+  * [Solution](grad.md/#solution)
+  * [CHOP Cluster](grad.md/#HPC)
+  * [Further Readings](grad.md/#further-readings)  
